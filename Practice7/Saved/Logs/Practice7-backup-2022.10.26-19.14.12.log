@@ -1,0 +1,1359 @@
+﻿Log file open, 10/26/22 21:12:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=4772)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Practice7
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\UE5 First Game\UE.First-Game.-Practices\Practice7\Practice7.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.674] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="bd7ed23a4663f5e43408c1bbc3a2d79a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.400509
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-F06E4B1D48ECFC3C45C888B5E30B5E19
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin NiagaraFluids
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/NiagaraFluids/Content/' mounted to '/NiagaraFluids/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.674] (), CPU: 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogLinker: AddRedirectList(D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Config/WindowsEditor/NiagaraFluids.ini) has substring redirect /NiagaraSimulationStages/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.26-18.12.59:570][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.26-18.12.59:570][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.26-18.12.59:570][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.26-18.12.59:576][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.26-18.12.59:576][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.26-18.12.59:576][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.26-18.12.59:576][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.26-18.12.59:576][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.26-18.12.59:576][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.26-18.12.59:576][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.26-18.12.59:576][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.26-18.12.59:576][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.26-18.12.59:576][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.26-18.12.59:576][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.26-18.12.59:627][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.26-18.12.59:627][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.26-18.12.59:821][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3050 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.26-18.12.59:821][  0]LogD3D12RHI: Adapter has 3991MB of dedicated video memory, 0MB of dedicated system memory, and 20318MB of shared system memory, 2 output[s]
+[2022.10.26-18.12.59:869][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.26-18.12.59:869][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 20318MB of shared system memory, 0 output[s]
+[2022.10.26-18.12.59:882][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.26-18.12.59:882][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 20318MB of shared system memory, 0 output[s]
+[2022.10.26-18.12.59:883][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.26-18.12.59:883][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.26-18.12.59:883][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.26-18.12.59:884][  0]LogHAL: Display: Platform has ~ 40 GB [42611675136 / 68719476736 / 40], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.26-18.12.59:884][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.26-18.12.59:884][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.26-18.12.59:884][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.26-18.12.59:885][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.26-18.12.59:885][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.26-18.12.59:886][  0]LogInit: Computer: MICHAEL-PC
+[2022.10.26-18.12.59:886][  0]LogInit: User: petro
+[2022.10.26-18.12.59:886][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.10.26-18.12.59:886][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.26-18.12.59:886][  0]LogMemory: Memory total: Physical=39.7GB (40GB approx)
+[2022.10.26-18.12.59:886][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.26-18.12.59:886][  0]LogMemory: Process Physical Memory: 269.80 MB used, 273.93 MB peak
+[2022.10.26-18.12.59:886][  0]LogMemory: Process Virtual Memory: 216.04 MB used, 216.04 MB peak
+[2022.10.26-18.12.59:886][  0]LogMemory: Physical Memory: 5830.19 MB used,  34807.47 MB free, 40637.66 MB total
+[2022.10.26-18.12.59:886][  0]LogMemory: Virtual Memory: 6791.89 MB used,  36405.77 MB free, 43197.66 MB total
+[2022.10.26-18.12.59:886][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.26-18.12.59:895][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.26-18.12.59:928][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.26-18.12.59:931][  0]LogInit: Using OS detected language (uk-UA).
+[2022.10.26-18.12.59:931][  0]LogInit: Using OS detected locale (uk-UA).
+[2022.10.26-18.12.59:947][  0]LogTextLocalizationManager: No localization for 'uk-UA' exists, so 'en' will be used for the language.
+[2022.10.26-18.13.00:136][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.26-18.13.00:160][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.26-18.13.00:160][  0]LogWindowsTextInputMethodSystem:   - Українська (Україна) - (Keyboard).
+[2022.10.26-18.13.00:160][  0]LogWindowsTextInputMethodSystem:   - Російська (Росія) - (Keyboard).
+[2022.10.26-18.13.00:160][  0]LogWindowsTextInputMethodSystem:   - Англійська (США) - (Keyboard).
+[2022.10.26-18.13.00:160][  0]LogWindowsTextInputMethodSystem:   - Українська (Україна) - Виправлення сенсорного вводу (TSF IME).
+[2022.10.26-18.13.00:160][  0]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2022.10.26-18.13.00:212][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.26-18.13.00:212][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.26-18.13.02:306][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.26-18.13.02:309][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.26-18.13.02:309][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.26-18.13.02:392][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.26-18.13.02:429][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.26-18.13.02:434][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.26-18.13.02:444][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.26-18.13.02:458][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.26-18.13.02:458][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.26-18.13.02:501][  0]LogD3D12RHI:     GPU DeviceId: 0x25a5 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.26-18.13.02:501][  0]LogWindows: Attached monitors:
+[2022.10.26-18.13.02:501][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.26-18.13.02:501][  0]LogWindows:     resolution: 1920x1080, work area: (0, -1080) -> (1920, -48), device: '\\.\DISPLAY5'
+[2022.10.26-18.13.02:501][  0]LogWindows: Found 2 attached monitors.
+[2022.10.26-18.13.02:501][  0]LogWindows: EnumDisplayDevices:
+[2022.10.26-18.13.02:501][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.26-18.13.02:502][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.10.26-18.13.02:502][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.26-18.13.02:502][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.26-18.13.02:502][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:1), name: '\\.\DISPLAY5'
+[2022.10.26-18.13.02:502][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.10.26-18.13.02:503][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.10.26-18.13.02:503][  0]LogD3D12RHI:   Driver Version: 522.25 (internal:31.0.15.2225, unified:522.25)
+[2022.10.26-18.13.02:503][  0]LogD3D12RHI:      Driver Date: 10-6-2022
+[2022.10.26-18.13.02:503][  0]LogRHI: Texture pool is 2137 MB (70% of 3053 MB)
+[2022.10.26-18.13.02:503][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.26-18.13.02:503][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.26-18.13.02:533][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.26-18.13.02:546][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Practice7.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/TurnkeyReport_0.log" -log="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/TurnkeyLog_0.log" -project="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Practice7.uproject"  -platform=all'
+[2022.10.26-18.13.02:546][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Practice7.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/TurnkeyReport_0.log" -log="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/TurnkeyLog_0.log" -project="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Practice7.uproject"  -platform=all" ]
+[2022.10.26-18.13.02:597][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.26-18.13.02:637][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.26-18.13.02:637][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.26-18.13.02:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.26-18.13.02:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.26-18.13.02:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.26-18.13.02:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.26-18.13.02:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.26-18.13.02:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.26-18.13.02:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.26-18.13.02:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.26-18.13.02:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.26-18.13.02:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.26-18.13.02:678][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.26-18.13.02:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.26-18.13.02:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.26-18.13.02:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.26-18.13.02:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.26-18.13.02:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.26-18.13.02:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.26-18.13.02:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.26-18.13.02:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.26-18.13.02:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.26-18.13.02:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.26-18.13.02:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.26-18.13.02:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.26-18.13.02:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.26-18.13.02:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.26-18.13.02:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.26-18.13.02:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.26-18.13.02:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.26-18.13.02:708][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.26-18.13.02:751][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.26-18.13.02:756][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.26-18.13.02:756][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.26-18.13.02:756][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.26-18.13.02:756][  0]LogTargetPlatformManager:   PCM
+[2022.10.26-18.13.02:760][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.26-18.13.02:760][  0]LogTargetPlatformManager:   BINKA
+[2022.10.26-18.13.02:760][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.26-18.13.02:760][  0]LogTargetPlatformManager:   OGG
+[2022.10.26-18.13.02:760][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.26-18.13.02:760][  0]LogTargetPlatformManager:   OPUS
+[2022.10.26-18.13.02:925][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.26-18.13.02:936][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.26-18.13.02:944][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.26-18.13.02:944][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.26-18.13.02:944][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.26-18.13.02:944][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.26-18.13.02:944][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.26-18.13.02:944][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.26-18.13.02:944][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.26-18.13.02:945][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2022.10.26-18.13.02:948][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.26-18.13.02:952][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.26-18.13.02:952][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.26-18.13.02:956][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.26-18.13.02:961][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UE5 First Game/UE.First-Game.-Practices/Practice7/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.26-18.13.02:961][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.26-18.13.02:961][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UE5 First Game/UE.First-Game.-Practices/Practice7/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.26-18.13.02:961][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.26-18.13.02:990][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.26-18.13.02:991][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.26-18.13.02:991][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.26-18.13.03:007][  0]LogDerivedDataCache: Speed tests for C:/Users/petro/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.10.26-18.13.03:007][  0]LogDerivedDataCache: Display: Performance to C:/Users/petro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.24ms. RandomReadSpeed=98.80MBs, RandomWriteSpeed=246.97MBs. Assigned SpeedClass 'Local'
+[2022.10.26-18.13.03:008][  0]LogDerivedDataCache: Using Local data cache path C:/Users/petro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.26-18.13.03:008][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.26-18.13.03:008][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.26-18.13.03:016][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.26-18.13.03:016][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.26-18.13.03:025][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/Shaders/WorkingDirectory/13160/).
+[2022.10.26-18.13.03:026][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/petro/AppData/Local/Temp/UnrealShaderWorkingDir/41D0C0904CEDAA783C23D796F27F8A36/'.
+[2022.10.26-18.13.03:026][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.26-18.13.03:026][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.10.26-18.13.07:197][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.26-18.13.07:204][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.26-18.13.07:261][  0]LogAssetRegistry: FAssetRegistry took 0.0147 seconds to start up
+[2022.10.26-18.13.07:268][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.26-18.13.07:561][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.26-18.13.07:567][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.26-18.13.07:772][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.26-18.13.07:772][  0]LogDeviceProfileManager: Active device profile: [00000855429D6040][0000085539152800 50] WindowsEditor
+[2022.10.26-18.13.07:772][  0]LogDeviceProfileManager: Profiles: [00000855429D5B00][0000085539157800 50] Windows, [00000855429D6040][0000085539152800 50] WindowsEditor, [00000855429D3B80][0000085539EBC800 50] WindowsServer, [00000855429D5780][0000085539115000 50] WindowsClient, [00000855429D4600][0000085539150000 50] IOS, [00000855429D55C0][0000085536B4C800 50] iPadAir2, [00000855429D5400][0000085542C42800 50] IPadPro, [00000855429D3F00][0000085542C40000 50] iPadAir3, [00000855429D1180][0000085542C47800 50] iPadAir4, [00000855429D6900][0000085542C4A000 50] iPadMini4, [00000855429D4980][0000085542C4C800 50] iPadMini5, [00000855429D3480][0000085531050000 50] iPadMini6, [00000855429D9840][0000085542CC5000 50] iPhone6S, [00000855429D9BC0][0000085542CC2800 50] iPhone7, [00000855429D94C0][0000085542CC0000 50] iPodTouch7, [00000855429D6200][0000085542CCA000 50] iPhone6SPlus, [00000855429D4EC0][0000085542CCC800 50] iPhone7Plus, [00000855429D3100][0000085542C45000 50] iPhoneSE, [00000855429D8340][0000085542C70000 50] iPhone8, [00000855429D6740][0000085542C75000 50] iPhone8Plus, [00000855429D2300][0000085542C77800 50] iPhoneX, [00000855429D6AC0][0000085542C7A000 50] iPhoneXS, [00000855429D9A00][0000085542C7C800 50] iPhoneXSMax, [00000855429D2D80][0000085542CC7800 50] iPhoneXR, [00000855429D4280][0000085542C90000 50] iPhone11, [00000855429D7E00][0000085542C95000 50] iPhone11Pro, [00000855429D2680][0000085542C97800 50] iPhone11ProMax, [00000855429D40C0][0000085542C9A000 50] iPhoneSE2, [00000855429D6580][0000085542C9C800 50] iPhone12Mini, [00000855429D2A00][0000085542C72800 50] iPhone12, [00000855429D5940][0000085542CE0000 50] iPhone12Pro, [00000855429D3D40][0000085542CE5000 50] iPhone12ProMax, [00000855429D8180][0000085542CE7800 50] iPhone13Mini, [00000855429D1500][0000085542CEA000 50] iPhone13, [00000855429D8880][0000085542CEC800 50] iPhone13Pro, [00000855429D3800][0000085542C92800 50] iPhone13ProMax, [00000855429D6E40][0000085542CF0000 50] iPadPro105, [00000855429D78C0][0000085542CF5000 50] iPadPro129, [00000855429D9680][0000085542CF7800 50] iPadPro97, [00000855429D7380][0000085542CFA000 50] iPadPro2_129, [00000855429D5080][0000085542CFC800 50] iPad5, [00000855429D9140][0000085542CE2800 50] iPad6, [00000855429D4D00][0000085542D00000 50] iPad7, [00000855429D8F80][0000085542D05000 50] iPad8, [00000855429D1F80][0000085542D07800 50] iPad9, [00000855429D71C0][0000085542D0A000 50] iPadPro11, [00000855429D1C00][0000085542D0C800 50] iPadPro2_11, [00000855429D8DC0][0000085542CF2800 50] iPadPro3_11, [00000855429D4B40][0000085542D10000 50] iPadPro3_129, [00000855429D86C0][0000085542D15000 50] iPadPro4_129, [00000855429D8500][0000085542D17800 50] iPadPro5_129, [00000855429D2840][0000085542D1A000 50] AppleTV, [00000855429D5E80][0000085542D1C800 50] AppleTV4K, [00000855429D2140][0000085542D02800 50] TVOS, [00000855429DB980][0000085542D22800 50] Mac, [00000855429DB7C0][0000085542D20000 50] MacEditor, [00000855429D6C80][0000085542D27800 50] MacClient, [00000855429DB280][0000085542D2A000 50] MacServer, [00000855429DC080][0000085542D12800 50] Linux, [00000855429DC400][0000085542D2C800 50] LinuxEditor, [00000855429DBD00][0000085542D30000 50] LinuxArm64Editor, [00000855429D2F40][0000085542D35000 50] LinuxArm64, [00000855429DA800][0000085542D37800 50] LinuxClient, [00000855429DC5C0][0000085542D3A000 50] LinuxArm64Client, [00000855429DBEC0][0000085542D3C800 50] LinuxServer, [00000855429DBB40][0000085542D25000 50] LinuxArm64Server, [00000855429D7FC0][0000085542D40000 50] Android, [00000855429DA9C0][0000085542D45000 50] Android_Preview_OpenGL, [00000855429D9300][0000085542D47800 50] Android_Preview_Vulkan, [00000855429DC780][0000085542D4A000 50] Android_Low, [00000855429D8A40][0000085542D4C800 50] Android_Mid, [00000855429D2BC0][0000085542D32800 50] Android_High, [00000855429D63C0][0000085542D50000 50] Android_Default, [00000855429DA100][0000085542D55000 50] Android_Adreno4xx, [00000855429D9D80][0000085542D57800 50] Android_Adreno5xx_Low, [00000855429D7700][0000085542D5A000 50] Android_Adreno5xx, [00000855429D8C00][0000085542D5C800 50] Android_Adreno6xx, [00000855429D7540][0000085542D42800 50] Android_Adreno6xx_Vulkan, [00000855429DAF00][0000085542D60000 50] Android_Adreno7xx, [00000855429DB440][0000085542D65000 50] Android_Adreno7xx_Vulkan, [00000855429DAD40][0000085542D67800 50] Android_Mali_T6xx, [00000855429D39C0][0000085542D6A000 50] Android_Mali_T7xx, [00000855429DC940][0000085542D6C800 50] Android_Mali_T8xx, [00000855429D7000][0000085542D52800 50] Android_Mali_G71, [00000855429DA2C0][0000085542C80000 50] Android_Mali_G72, [00000855429DD740][0000085542C85000 50] Android_Mali_G72_Vulkan, [00000855429DB0C0][0000085542C87800 50] Android_Mali_G76, [00000855429DA640][0000085542C8A000 50] Android_Mali_G76_Vulkan, [00000855429D1DC0][0000085542C8C800 50] Android_Mali_G77, [00000855429DAB80][0000085542D62800 50] Android_Mali_G77_Vulkan, [00000855429DD200][0000085542D70000 50] Android_Mali_G78, [00000855429DCB00][0000085542D75000 50] Android_Mali_G78_Vulkan, [00000855429D4440][0000085542D77800 50] Android_Mali_G710, [00000855429D7A80][0000085542D7A000 50] Android_Mali_G710_Vulkan, [00000855429DE700][0000085542D7C800 50] Android_Xclipse_920, [00000855429D9F40][0000085542C82800 50] Android_Xclipse_920_Vulkan, [00000855429DD040][0000085542D80000 50] Android_Vulkan_SM5, [00000855429DC240][0000085542D85000 50] Android_PowerVR_G6xxx, [00000855429DEA80][0000085542D87800 50] Android_PowerVR_GT7xxx, [00000855429DCCC0][0000085542D8A000 50] Android_PowerVR_GE8xxx, [00000855429DDAC0][0000085542D8C800 50] Android_PowerVR_GM9xxx, [00000855429D3640][0000085542D72800 50] Android_PowerVR_GM9xxx_Vulkan, [00000855429DF6C0][0000085542D90000 50] Android_TegraK1, [00000855429D5240][0000085542D95000 50] Android_Unknown_Vulkan, [00000855429DE540][0000085542D97800 50] Oculus_Quest, [00000855429D47C0][0000085542D9A000 50] Oculus_Quest2, [00000855429DCE80][0000085542D9C800 50] HoloLens, 
+[2022.10.26-18.13.07:772][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.26-18.13.07:880][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.26-18.13.08:160][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.26-18.13.08:160][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.26-18.13.08:160][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.26-18.13.08:160][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.26-18.13.08:161][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.26-18.13.08:215][  0]LogNetVersion: Practice7 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 245266156)
+[2022.10.26-18.13.08:720][  0]LogSlate: Border
+[2022.10.26-18.13.08:720][  0]LogSlate: BreadcrumbButton
+[2022.10.26-18.13.08:720][  0]LogSlate: Default
+[2022.10.26-18.13.08:720][  0]LogSlate: Icons.Save
+[2022.10.26-18.13.08:720][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.26-18.13.08:720][  0]LogSlate: ListView
+[2022.10.26-18.13.08:720][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.26-18.13.08:720][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.26-18.13.08:720][  0]LogSlate: TableView.DarkRow
+[2022.10.26-18.13.08:720][  0]LogSlate: TableView.Row
+[2022.10.26-18.13.08:720][  0]LogSlate: TreeView
+[2022.10.26-18.13.09:305][  0]SourceControl: Source control is disabled
+[2022.10.26-18.13.09:400][  0]SourceControl: Source control is disabled
+[2022.10.26-18.13.09:400][  0]SourceControl: Source control is disabled
+[2022.10.26-18.13.09:638][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.26-18.13.09:638][  0]LogUObjectAllocator: 5584264 out of 0 bytes used by permanent object pool.
+[2022.10.26-18.13.09:638][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.26-18.13.10:707][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 5937E01D4398FA811F11909F35BA6821 | Instance: B87A324E4AD9B416D3BBBCA2D258E9AA (MICHAEL-PC-13160).
+[2022.10.26-18.13.10:962][  0]LogPython: Using Python 3.9.7
+[2022.10.26-18.13.11:917][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.26-18.13.11:950][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.26-18.13.12:246][  0]SourceControl: Source control is disabled
+[2022.10.26-18.13.12:273][  0]SourceControl: Source control is disabled
+[2022.10.26-18.13.12:301][  0]SourceControl: Source control is disabled
+[2022.10.26-18.13.13:157][  0]LogUProjectInfo: Found projects:
+[2022.10.26-18.13.13:166][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-18.13.13:167][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-18.13.13:167][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-18.13.13:684][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.26-18.13.13:928][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.26-18.13.13:953][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.26-18.13.13:953][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.26-18.13.14:312][  0]LogCollectionManager: Loaded 0 collections in 0.001820 seconds
+[2022.10.26-18.13.14:581][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Collections/' took 0.00s
+[2022.10.26-18.13.14:581][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/Developers/petro/Collections/' took 0.00s
+[2022.10.26-18.13.14:581][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/Collections/' took 0.00s
+[2022.10.26-18.13.15:140][  0]LogEngine: Initializing Engine...
+[2022.10.26-18.13.15:166][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.26-18.13.15:174][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.10.26-18.13.15:938][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.26-18.13.15:941][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-18.13.15:962][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.13.16:008][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.26-18.13.16:015][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.26-18.13.16:040][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.26-18.13.16:043][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.26-18.13.16:043][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.26-18.13.16:045][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.26-18.13.16:045][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.26-18.13.16:046][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-18.13.16:046][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-18.13.16:046][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-18.13.16:046][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-18.13.16:046][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-18.13.16:046][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.26-18.13.16:046][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-18.13.16:047][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-18.13.16:047][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-18.13.16:047][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-18.13.16:047][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-18.13.16:060][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.26-18.13.16:920][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.10.26-18.13.16:922][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-18.13.16:940][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-18.13.16:940][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-18.13.16:941][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.26-18.13.16:941][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.26-18.13.16:943][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.26-18.13.16:943][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.26-18.13.16:943][  0]LogInit: FAudioDevice initialized.
+[2022.10.26-18.13.16:943][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.26-18.13.16:943][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.26-18.13.16:943][  0]LogInit: Texture streaming: Enabled
+[2022.10.26-18.13.16:981][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.26-18.13.16:992][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.26-18.13.17:020][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.26-18.13.17:031][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.26-18.13.17:031][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.26-18.13.18:594][  0]LogLiveCoding: Display: First instance in process group "UE_Practice7_0x2e416445", spawning console
+[2022.10.26-18.13.18:594][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.26-18.13.18:594][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.26-18.13.18:622][  0]LogInit: Transaction tracking system initialized
+[2022.10.26-18.13.18:716][  0]BlueprintLog: New page: Editor Load
+[2022.10.26-18.13.18:967][  0]LocalizationService: Localization service is disabled
+[2022.10.26-18.13.19:027][  0]TimingProfiler: Initialize
+[2022.10.26-18.13.19:028][  0]TimingProfiler: OnSessionChanged
+[2022.10.26-18.13.19:028][  0]LoadingProfiler: Initialize
+[2022.10.26-18.13.19:028][  0]LoadingProfiler: OnSessionChanged
+[2022.10.26-18.13.19:029][  0]NetworkingProfiler: Initialize
+[2022.10.26-18.13.19:030][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.26-18.13.19:030][  0]MemoryProfiler: Initialize
+[2022.10.26-18.13.19:030][  0]MemoryProfiler: OnSessionChanged
+[2022.10.26-18.13.19:256][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-18.13.19:257][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-18.13.19:258][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.26-18.13.20:322][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/' took 0.01s
+[2022.10.26-18.13.20:322][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.26-18.13.20:407][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.26-18.13.20:414][  0]SourceControl: Source control is disabled
+[2022.10.26-18.13.20:414][  0]LogUnrealEdMisc: Loading editor; pre map load, took 23.414
+[2022.10.26-18.13.20:416][  0]Cmd: MAP LOAD FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Practice3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.26-18.13.20:420][  0]LightingResults: New page: Lighting Build
+[2022.10.26-18.13.20:430][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-18.13.20:432][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-18.13.20:433][  0]MapCheck: New page: Map Check
+[2022.10.26-18.13.20:433][  0]LightingResults: New page: Lighting Build
+[2022.10.26-18.13.20:446][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.26-18.13.20:454][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.26-18.13.21:756][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule should be resaved to improve async compilation performance.
+[2022.10.26-18.13.21:838][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Door.SM_Door should be resaved to improve async compilation performance.
+[2022.10.26-18.13.21:848][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 should be resaved to improve async compilation performance.
+[2022.10.26-18.13.22:023][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Practice7'.
+[2022.10.26-18.13.22:024][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-18.13.22:024][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.13.22:094][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyAssets/Levels/Part2) is flushing async loading
+[2022.10.26-18.13.22:094][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.10.26-18.13.22:132][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MyAssets/Levels/Part1) is flushing async loading
+[2022.10.26-18.13.22:577][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.26-18.13.22:577][  0]LogAIModule: Creating AISystem for world Practice7
+[2022.10.26-18.13.22:592][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.26-18.13.22:593][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.26-18.13.22:593][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,33ms to complete.
+[2022.10.26-18.13.22:593][  0]LogFileHelpers: Loading map 'Practice3' took 2.179
+[2022.10.26-18.13.22:627][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.627
+[2022.10.26-18.13.22:627][  0]LogShaderCompilers: Display: ================================================
+[2022.10.26-18.13.22:627][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.26-18.13.22:627][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.26-18.13.22:627][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.26-18.13.22:627][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 2048.00 MB (2.00 GB) budget. Usage: 0.00%
+[2022.10.26-18.13.22:627][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.26-18.13.22:627][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.26-18.13.22:627][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.26-18.13.22:627][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.26-18.13.22:627][  0]LogShaderCompilers: Display: ================================================
+[2022.10.26-18.13.22:763][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-18.13.22:769][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-18.13.22:773][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-18.13.22:777][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-18.13.22:922][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.26-18.13.22:922][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-18.13.22:929][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.26-18.13.22:929][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-18.13.22:934][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.26-18.13.22:934][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-18.13.22:940][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.26-18.13.22:940][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-18.13.22:950][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.26-18.13.22:950][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-18.13.22:958][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.26-18.13.22:958][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-18.13.22:963][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.26-18.13.22:963][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-18.13.22:968][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.26-18.13.22:968][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-18.13.22:973][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.26-18.13.22:973][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-18.13.22:978][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.26-18.13.22:978][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.26-18.13.22:979][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.26-18.13.23:474][  0]LogSlate: Took 0.004201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.26-18.13.23:482][  0]LogSlate: Took 0.004055 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.26-18.13.23:489][  0]LogSlate: Took 0.006588 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.26-18.13.23:506][  0]LogViewport: Scene viewport resized to 1394x894, mode Windowed.
+[2022.10.26-18.13.24:403][  0]LogStall: Startup...
+[2022.10.26-18.13.24:405][  0]LogStall: Startup complete.
+[2022.10.26-18.13.24:423][  0]LogLoad: (Engine Initialization) Total time: 27.42 seconds
+[2022.10.26-18.13.24:423][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.26-18.13.24:480][  0]LogAssetRegistry: Asset discovery search completed in 17.2199 seconds
+[2022.10.26-18.13.24:506][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.10.26-18.13.24:531][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.26-18.13.25:800][  4]LogSlate: Took 0.007234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.26-18.15.04:914][301]LogDerivedDataCache: C:/Users/petro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.601 and deleted 6 file(s) with total size 0 MiB.
+[2022.10.26-18.36.10:086][ 79]LogViewport: Scene viewport resized to 1394x882, mode Windowed.
+[2022.10.26-18.36.10:582][ 79]LogViewport: Scene viewport resized to 1391x848, mode Windowed.
+[2022.10.26-18.36.12:028][101]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-18.36.12:140][101]LogSlate: Window 'Message Log' being destroyed
+[2022.10.26-18.36.29:445][574]LogSlate: Took 0.007713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.26-18.36.29:460][574]LogSlate: Took 0.006625 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.26-18.38.18:647][785]LogContentBrowser: Attempting asset rename: LoadPart1 -> LoadPart
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.LoadPart:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.LoadPart_C' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.LoadPart:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.LoadPart:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.LoadPart:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.SKEL_LoadPart_C:ReceiveBeginPlay' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.SKEL_LoadPart_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.SKEL_LoadPart_C:ReceiveTick' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.SKEL_LoadPart_C:BndEvt__LoadPart1_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.SKEL_LoadPart_C:UserConstructionScript' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:677][785]LogMetaData: Removing '/Game/MyAssets/Blueprints/LoadPart.SKEL_LoadPart_C' ref from Metadata '/Game/MyAssets/Blueprints/LoadPart1.PackageMetaData'
+[2022.10.26-18.38.18:829][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Blueprints/LoadPart" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Blueprints/LoadPart.uasset" SILENT=true
+[2022.10.26-18.38.18:834][785]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.005498 seconds
+[2022.10.26-18.38.18:841][785]LogSavePackage: Moving output files for package: /Game/MyAssets/Blueprints/LoadPart
+[2022.10.26-18.38.18:841][785]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/LoadPartCADA5E0D433FE3F79E05849DBA6FDEA8.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Blueprints/LoadPart.uasset'
+[2022.10.26-18.38.18:842][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Blueprints/LoadPart1" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Blueprints/LoadPart1.uasset" SILENT=true
+[2022.10.26-18.38.18:843][785]LogSavePackage: Moving output files for package: /Game/MyAssets/Blueprints/LoadPart1
+[2022.10.26-18.38.18:843][785]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/LoadPart1B1362E944785151533E1F287AFF7E27B.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Blueprints/LoadPart1.uasset'
+[2022.10.26-18.38.18:923][785]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.26-18.38.18:924][785]LogContentValidation: Display: Validating ObjectRedirector /Game/MyAssets/Blueprints/LoadPart1.LoadPart1
+[2022.10.26-18.38.18:924][785]LogContentValidation: Display: Validating ObjectRedirector /Game/MyAssets/Blueprints/LoadPart1.Default__LoadPart1_C
+[2022.10.26-18.38.18:924][785]LogContentValidation: Display: Validating ObjectRedirector /Game/MyAssets/Blueprints/LoadPart1.LoadPart1_C
+[2022.10.26-18.38.18:924][785]LogContentValidation: Display: Validating Blueprint /Game/MyAssets/Blueprints/LoadPart.LoadPart
+[2022.10.26-18.38.29:882][ 81]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.10.26-18.38.57:774][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.26-18.38.57:834][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1
+[2022.10.26-18.38.57:835][896]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Practice7_Auto1BF99AC684B0E4AC6C06C68BEEBFE0E77.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.umap'
+[2022.10.26-18.38.57:842][896]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyAssets/Levels/Practice7' took 0.077
+[2022.10.26-18.38.57:842][896]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2022.10.26-18.42.57:524][883]Cmd: TRANSACTION UNDO
+[2022.10.26-18.42.57:524][883]LogEditorTransaction: Undo Move Elements
+[2022.10.26-18.43.22:032][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.26-18.43.22:083][560]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Practice7
+[2022.10.26-18.43.22:083][560]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Practice7FDD0872D4F7ADBE7CE522A9AB4ABA803.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Practice7.umap'
+[2022.10.26-18.43.22:102][560]LogFileHelpers: No new changes to save!
+[2022.10.26-18.43.22:148][560]AssetCheck: New page: Asset Save: Practice7
+[2022.10.26-18.43.22:148][560]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Practice7.Practice7
+[2022.10.26-18.43.28:886][713]LogViewport: Scene viewport resized to 1065x848, mode Windowed.
+[2022.10.26-18.44.04:186][440]LogSlate: Window 'New Level' being destroyed
+[2022.10.26-18.44.04:215][440]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.44.09:998][440]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.26-18.44.10:167][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part3" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.44.10:175][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.10.26-18.44.10:177][440]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part3
+[2022.10.26-18.44.10:177][440]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part3D47E28994EFFCD0EB3994E98CAFB3597.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap'
+[2022.10.26-18.44.10:275][440]LogFileHelpers: Saving map 'Part3' took 0.231
+[2022.10.26-18.44.10:479][440]AssetCheck: New page: Asset Save: Part3
+[2022.10.26-18.44.10:480][440]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part3.Part3
+[2022.10.26-18.44.10:779][441]LogViewport: Scene viewport resized to 1391x848, mode Windowed.
+[2022.10.26-18.45.49:589][355]Cmd: DELETE
+[2022.10.26-18.45.49:589][355]Cmd: ACTOR DELETE
+[2022.10.26-18.45.49:614][355]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1 is already used by Landscape /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:614][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_16 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_16, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:614][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_17 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:614][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_18 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_18, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:614][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_19 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_19, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:614][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_20 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_20, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:614][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_21 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_21, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:614][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_22 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_22, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:614][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_23 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_23, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:614][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_24 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_24, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_25 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_25, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_26 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_26, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_27 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_27, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_28 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_28, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_29 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_29, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_30 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_30, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_31 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_31, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_32 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_32, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_33 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_33, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_34 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_34, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_35 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_35, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_36 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_36, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:615][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_37 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_37, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_38 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_38, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_39 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_39, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_40 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_40, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_41 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_41, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_42 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_42, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_43 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_43, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_44 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_44, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_45 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_45, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_46 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_46, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_47 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_47, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_48 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_48, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_49 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_49, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_50 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_50, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:616][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_51 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_51, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_52 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_52, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_53 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_53, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_54 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_54, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_55 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_55, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_56 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_56, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_57 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_57, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_58 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_58, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_59 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_59, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_60 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_60, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_61 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_61, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_62 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_62, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_63 is already used by LandscapeComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeComponent_63, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_100 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_100, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_101 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_101, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:617][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_102 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_102, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_103 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_103, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_104 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_104, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_105 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_105, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_106 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_106, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_107 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_107, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_108 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_108, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_109 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_109, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_110 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_110, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_111 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_111, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_112 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_112, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_113 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_113, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_114 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_114, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_115 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_115, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_116 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_116, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_117 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_117, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_118 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_118, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_119 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_119, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_120 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_120, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_121 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_121, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_122 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_122, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_123 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_123, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_124 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_124, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:618][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_125 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_125, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_126 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_126, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_127 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_127, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_80 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_80, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_81 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_81, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_82 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_82, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_83 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_83, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_84 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_84, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_85 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_85, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_86 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_86, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_87 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_87, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_88 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_88, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_89 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_89, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_90 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_90, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_91 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_91, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_92 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_92, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_93 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_93, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_94 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_94, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_95 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_95, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_96 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_96, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_97 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_97, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_98 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_98, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:619][355]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/MyAssets/Levels/Practice7_Auto1.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_99 is already used by LandscapeHeightfieldCollisionComponent /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Landscape_1.LandscapeHeightfieldCollisionComponent_99, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.10.26-18.45.49:670][355]LogEditorActor: Deleted Actor: LoadPart_C
+[2022.10.26-18.45.49:681][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.26-18.45.49:682][355]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2022.10.26-18.46.24:210][350]Cmd: TRANSACTION UNDO
+[2022.10.26-18.46.24:210][350]LogEditorTransaction: Undo Move Elements
+[2022.10.26-18.47.04:461][412]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2022.10.26-18.47.04:484][412]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2022.10.26-18.47.21:720][849]Cmd: TRANSACTION UNDO
+[2022.10.26-18.47.21:720][849]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.26-18.47.22:871][869]Cmd: TRANSACTION UNDO
+[2022.10.26-18.47.22:871][869]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.26-18.49.45:187][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part3" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.49.45:203][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.26-18.49.45:206][892]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part3
+[2022.10.26-18.49.45:207][892]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part3D9B276734CC47B3D470A5EA731969D96.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap'
+[2022.10.26-18.49.45:295][892]AssetCheck: New page: Asset Save: Part3
+[2022.10.26-18.49.45:295][892]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part3.Part3
+[2022.10.26-18.51.00:967][ 49]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (LandscapeGizmoActiveActor)
+[2022.10.26-18.51.01:010][ 49]LogViewport: Scene viewport resized to 1065x848, mode Windowed.
+[2022.10.26-18.51.34:779][996]LogActorLevelEditorSelection: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Landscape)
+[2022.10.26-18.51.39:732][ 96]LogSlate: Window 'Message' being destroyed
+[2022.10.26-18.51.39:758][ 96]Message dialog closed, result: Ok, title: Message, text: Save aborted.  Level must be unlocked before it can be saved.
+[2022.10.26-18.52.09:916][807]LogSlate: Window 'Message' being destroyed
+[2022.10.26-18.52.09:945][807]Message dialog closed, result: Ok, title: Message, text: Save aborted.  Levels must be made visible before they can be saved.
+[2022.10.26-18.52.14:688][844]LogSlate: Window 'Message' being destroyed
+[2022.10.26-18.52.14:713][844]Message dialog closed, result: Ok, title: Message, text: Save aborted.  Levels must be made visible before they can be saved.
+[2022.10.26-18.52.17:479][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part3" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.52.17:488][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.10.26-18.52.17:531][901]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part3
+[2022.10.26-18.52.17:531][901]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part38BF32F994612B053E7E3A7A13E9EF2EB.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap'
+[2022.10.26-18.52.17:590][901]AssetCheck: New page: Asset Save: Part3
+[2022.10.26-18.52.17:590][901]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part3.Part3
+[2022.10.26-18.52.20:501][911]LogSlate: Window 'Message' being destroyed
+[2022.10.26-18.52.20:526][911]Message dialog closed, result: Ok, title: Message, text: Save aborted.  Level must be unlocked before it can be saved.
+[2022.10.26-18.52.23:476][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part2" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.52.23:486][960]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.26-18.52.23:493][960]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part2
+[2022.10.26-18.52.23:493][960]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part20B7FAB9E40834E112C1FBB8C19034CDA.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part2.umap'
+[2022.10.26-18.52.23:588][960]AssetCheck: New page: Asset Save: Part2
+[2022.10.26-18.52.23:588][960]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part2.Part2
+[2022.10.26-18.52.24:577][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.10.26-18.52.24:622][976]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Practice7
+[2022.10.26-18.52.24:624][976]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Practice7F79F5BA24C56CD279339E9A6D6794F8C.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Practice7.umap'
+[2022.10.26-18.52.24:641][976]LogFileHelpers: No new changes to save!
+[2022.10.26-18.52.24:690][976]AssetCheck: New page: Asset Save: Practice7
+[2022.10.26-18.52.24:691][976]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Practice7.Practice7
+[2022.10.26-18.52.34:316][160]LogSlate: Window 'New Level' being destroyed
+[2022.10.26-18.52.34:341][160]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.52.42:385][160]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.26-18.52.42:526][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Level4" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Level4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.52.42:533][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.26-18.52.42:535][160]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Level4
+[2022.10.26-18.52.42:535][160]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Level4E33EBA184A5B855106B211A5739DCE71.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Level4.umap'
+[2022.10.26-18.52.42:634][160]LogFileHelpers: Saving map 'Level4' took 0.223
+[2022.10.26-18.52.42:832][160]AssetCheck: New page: Asset Save: Level4
+[2022.10.26-18.52.42:832][160]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Level4.Level4
+[2022.10.26-18.52.42:911][161]LogViewport: Scene viewport resized to 1391x848, mode Windowed.
+[2022.10.26-18.53.03:324][472]LogDialogs: Warning: Suppressed: Removing levels cannot be undone.  Proceed?
+[2022.10.26-18.53.03:326][472]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-18.53.03:326][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-18.53.03:335][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.26-18.53.03:344][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.26-18.53.03:344][472]MapCheck: New page: Map Check
+[2022.10.26-18.53.03:344][472]LightingResults: New page: Lighting Build
+[2022.10.26-18.53.03:351][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.26-18.53.03:359][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.10.26-18.53.11:947][652]LogObjectTools: Deleting 1 worlds: /Game/MyAssets/Levels/Level4.Level4
+[2022.10.26-18.53.11:947][652]LogObjectTools: Currently 8 active worlds: /Game/MyAssets/Levels/Practice7.Practice7, /Game/MyAssets/Levels/Part1.Part1, /Game/MyAssets/Levels/Part2.Part2, /Game/MyAssets/Levels/Part3.Part3, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2022.10.26-18.53.11:956][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.10.26-18.53.13:626][652]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.26-18.53.13:671][652]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-18.53.13:671][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-18.53.13:673][652]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.10.26-18.53.13:673][652]LogWorld: UWorld::CleanupWorld for Level4, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-18.53.13:673][652]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-18.53.13:682][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.10.26-18.53.13:691][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.26-18.53.13:700][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.26-18.53.19:437][712]LogSlate: Window 'New Level' being destroyed
+[2022.10.26-18.53.37:341][ 16]LogSlate: Window 'New Level' being destroyed
+[2022.10.26-18.53.37:367][ 16]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.53.42:344][ 16]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.26-18.53.42:495][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part4" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.53.42:503][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.26-18.53.42:505][ 16]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part4
+[2022.10.26-18.53.42:505][ 16]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part4275096A74EDB6155716764A75AA60A8F.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part4.umap'
+[2022.10.26-18.53.42:601][ 16]LogFileHelpers: Saving map 'Part4' took 0.213
+[2022.10.26-18.53.42:804][ 16]AssetCheck: New page: Asset Save: Part4
+[2022.10.26-18.53.42:804][ 16]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part4.Part4
+[2022.10.26-18.53.48:681][ 64]LogSlate: Window 'New Level' being destroyed
+[2022.10.26-18.53.48:704][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.53.51:949][ 64]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.26-18.53.52:089][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part5" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.53.52:096][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.10.26-18.53.52:098][ 64]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part5
+[2022.10.26-18.53.52:098][ 64]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part566CA44524E8B972F4BBEA4A6639AF085.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part5.umap'
+[2022.10.26-18.53.52:198][ 64]LogFileHelpers: Saving map 'Part5' took 0.204
+[2022.10.26-18.53.52:391][ 64]AssetCheck: New page: Asset Save: Part5
+[2022.10.26-18.53.52:391][ 64]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part5.Part5
+[2022.10.26-18.54.00:727][144]LogSlate: Window 'New Level' being destroyed
+[2022.10.26-18.54.00:752][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.54.06:911][144]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.26-18.54.07:080][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part6" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.54.07:089][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.26-18.54.07:091][144]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part6
+[2022.10.26-18.54.07:091][144]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part60469E2EC453116494E9CA3BDC3027282.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part6.umap'
+[2022.10.26-18.54.07:190][144]LogFileHelpers: Saving map 'Part6' took 0.229
+[2022.10.26-18.54.07:398][144]AssetCheck: New page: Asset Save: Part6
+[2022.10.26-18.54.07:398][144]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part6.Part6
+[2022.10.26-18.54.15:566][238]LogSlate: Window 'New Level' being destroyed
+[2022.10.26-18.54.15:592][238]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.54.20:696][238]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.26-18.54.20:830][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part7" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.54.20:840][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.26-18.54.20:843][238]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part7
+[2022.10.26-18.54.20:843][238]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part7CFC3748E43C94DEB2248979AF62BA7ED.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part7.umap'
+[2022.10.26-18.54.20:933][238]LogFileHelpers: Saving map 'Part7' took 0.197
+[2022.10.26-18.54.21:126][238]AssetCheck: New page: Asset Save: Part7
+[2022.10.26-18.54.21:126][238]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part7.Part7
+[2022.10.26-18.54.25:587][277]LogSlate: Window 'New Level' being destroyed
+[2022.10.26-18.54.25:645][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.54.29:126][277]LogSlate: Window 'Save Level As' being destroyed
+[2022.10.26-18.54.29:277][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part8" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.54.29:285][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.26-18.54.29:288][277]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part8
+[2022.10.26-18.54.29:288][277]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part8F3F186BA451AD20B5CF357937F0A54A7.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap'
+[2022.10.26-18.54.29:383][277]LogFileHelpers: Saving map 'Part8' took 0.210
+[2022.10.26-18.54.29:580][277]AssetCheck: New page: Asset Save: Part8
+[2022.10.26-18.54.29:580][277]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part8.Part8
+[2022.10.26-18.54.42:879][553]LogViewport: Scene viewport resized to 1065x848, mode Windowed.
+[2022.10.26-18.55.11:001][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.26-18.55.11:045][250]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Practice7
+[2022.10.26-18.55.11:045][250]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Practice7B1E065734FA59D7273CD2DBFF06A4242.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Practice7.umap'
+[2022.10.26-18.55.11:064][250]LogFileHelpers: No new changes to save!
+[2022.10.26-18.55.11:109][250]AssetCheck: New page: Asset Save: Practice7
+[2022.10.26-18.55.11:109][250]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Practice7.Practice7
+[2022.10.26-18.55.11:762][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part3" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.55.11:771][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.26-18.55.11:780][260]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part3
+[2022.10.26-18.55.11:781][260]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part33D8097CE4622A7556414BC96B1E6B0D4.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap'
+[2022.10.26-18.55.11:874][260]AssetCheck: New page: Asset Save: Part3
+[2022.10.26-18.55.11:874][260]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part3.Part3
+[2022.10.26-18.55.12:417][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part8" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.55.12:425][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.10.26-18.55.12:469][271]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part8
+[2022.10.26-18.55.12:469][271]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part8FEFE28ED463A6A5404E695B6480B3179.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap'
+[2022.10.26-18.55.12:527][271]AssetCheck: New page: Asset Save: Part8
+[2022.10.26-18.55.12:527][271]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part8.Part8
+[2022.10.26-18.57.01:837][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part8" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.57.01:847][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.26-18.57.01:888][851]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part8
+[2022.10.26-18.57.01:889][851]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part8629641394E376E17F5E621922CACCA1A.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap'
+[2022.10.26-18.57.01:947][851]AssetCheck: New page: Asset Save: Part8
+[2022.10.26-18.57.01:947][851]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part8.Part8
+[2022.10.26-18.57.09:092][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part8" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.57.09:100][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.10.26-18.57.09:114][991]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part8
+[2022.10.26-18.57.09:114][991]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part86676106947F8F053E9A2B48607DB0EDE.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap'
+[2022.10.26-18.57.09:200][991]AssetCheck: New page: Asset Save: Part8
+[2022.10.26-18.57.09:200][991]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part8.Part8
+[2022.10.26-18.57.17:090][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.10.26-18.57.17:117][167]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Practice7
+[2022.10.26-18.57.17:118][167]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Practice7CD23E34243CCB61FC4C154819BEE4F42.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Practice7.umap'
+[2022.10.26-18.57.17:139][167]LogFileHelpers: No new changes to save!
+[2022.10.26-18.57.17:188][167]AssetCheck: New page: Asset Save: Practice7
+[2022.10.26-18.57.17:189][167]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Practice7.Practice7
+[2022.10.26-18.57.17:911][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part3" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.57.17:919][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.10.26-18.57.17:928][178]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part3
+[2022.10.26-18.57.17:929][178]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part300E958A246B85B1AF21DCBA71917FB42.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap'
+[2022.10.26-18.57.18:019][178]AssetCheck: New page: Asset Save: Part3
+[2022.10.26-18.57.18:019][178]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part3.Part3
+[2022.10.26-18.57.18:683][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part4" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.57.18:690][191]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.10.26-18.57.18:732][191]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part4
+[2022.10.26-18.57.18:733][191]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part43A27A5AD4866586B09B541BC1729FB45.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part4.umap'
+[2022.10.26-18.57.18:792][191]AssetCheck: New page: Asset Save: Part4
+[2022.10.26-18.57.18:792][191]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part4.Part4
+[2022.10.26-18.57.19:146][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part5" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.57.19:153][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.10.26-18.57.19:193][199]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part5
+[2022.10.26-18.57.19:194][199]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part5FA91B0A548A5E7746EC2DE9EA2F7C410.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part5.umap'
+[2022.10.26-18.57.19:252][199]AssetCheck: New page: Asset Save: Part5
+[2022.10.26-18.57.19:253][199]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part5.Part5
+[2022.10.26-18.57.20:070][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part6" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.57.20:079][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.10.26-18.57.20:122][216]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part6
+[2022.10.26-18.57.20:122][216]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part612519FA1475DA614CF0BB69D9F792AD6.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part6.umap'
+[2022.10.26-18.57.20:178][216]AssetCheck: New page: Asset Save: Part6
+[2022.10.26-18.57.20:178][216]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part6.Part6
+[2022.10.26-18.57.20:623][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part7" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.57.20:632][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.10.26-18.57.20:674][225]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part7
+[2022.10.26-18.57.20:674][225]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part7F93D962D4C1877E0B2B2CFB91B1DFAD8.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part7.umap'
+[2022.10.26-18.57.20:732][225]AssetCheck: New page: Asset Save: Part7
+[2022.10.26-18.57.20:732][225]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part7.Part7
+[2022.10.26-18.57.22:416][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part8" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.57.22:425][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.26-18.57.22:432][263]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part8
+[2022.10.26-18.57.22:432][263]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part89A416EF243EBAD92FE3CE58C398EE218.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap'
+[2022.10.26-18.57.22:525][263]AssetCheck: New page: Asset Save: Part8
+[2022.10.26-18.57.22:525][263]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part8.Part8
+[2022.10.26-18.59.01:900][252]LogViewport: Scene viewport resized to 1391x848, mode Windowed.
+[2022.10.26-18.59.03:393][299]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.26-18.59.03:408][299]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.26-18.59.03:409][299]LogPlayLevel: [PlayLevel] Compiling Practice7 before play...
+[2022.10.26-18.59.03:438][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.26-18.59.03:439][299]LogPlayLevel: PlayLevel: Blueprint regeneration took 31 ms (1 blueprints)
+[2022.10.26-18.59.03:440][299]PIE: New page: PIE session: Practice7 (27 жовт. 2022 р., 00:59:03)
+[2022.10.26-18.59.03:445][299]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.26-18.59.03:446][299]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.26-18.59.03:446][299]LogPlayLevel: Creating play world package: /Game/MyAssets/Levels/UEDPIE_0_Practice7
+[2022.10.26-18.59.03:457][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011778s)
+[2022.10.26-18.59.03:457][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyAssets/Levels/Practice7.Practice7 to /Game/MyAssets/Levels/UEDPIE_0_Practice7.Practice7 (0.011914s)
+[2022.10.26-18.59.03:457][299]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.26-18.59.03:457][299]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-18.59.03:458][299]LogAIModule: Creating AISystem for world Practice7
+[2022.10.26-18.59.03:458][299]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2022.10.26-18.59.03:467][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.26-18.59.03:468][299]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.26-18.59.03:468][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.26-18.59.03:468][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.26-18.59.03:468][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.26-18.59.03:468][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.26-18.59.03:468][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.26-18.59.03:468][299]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.26-18.59.03:468][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.26-18.59.03:468][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.26-18.59.03:469][299]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.26-18.59.03:469][299]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.26-18.59.03:469][299]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.26-18.59.03:470][299]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.26-18.59.03:796][299]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.10.26-18.59.03:796][299]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.26-18.59.03:796][299]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.26-18.59.03:796][299]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.26-18.59.03:797][299]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.26-18.59.03:797][299]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.10.26-18.59.03:798][299]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.26-18.59.03:798][299]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.26-18.59.03:798][299]LogInit: FAudioDevice initialized.
+[2022.10.26-18.59.03:798][299]LogAudio: Display: Audio Device (ID: 2) registered with world 'Practice7'.
+[2022.10.26-18.59.03:815][299]LogLoad: Game class is 'BP_GameMode_C'
+[2022.10.26-18.59.03:817][299]LogWorld: Bringing World /Game/MyAssets/Levels/UEDPIE_0_Practice7.Practice7 up for play (max tick rate 60) at 2022.10.26-21.59.03
+[2022.10.26-18.59.03:817][299]LogWorld: Bringing up level for play took: 0.001541
+[2022.10.26-18.59.03:818][299]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.10.26-18.59.03:850][299]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/MyAssets/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door'!
+[2022.10.26-18.59.03:850][299]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/MyAssets/Blueprints/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door'!
+[2022.10.26-18.59.03:856][299]PIE: Server logged in
+[2022.10.26-18.59.03:857][299]PIE: Play in editor total start time 0,452 seconds.
+[2022.10.26-18.59.06:825][386]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.06:857][386]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/MyAssets/Levels/UEDPIE_0_Part1 took (less than) 22.25 ms
+[2022.10.26-18.59.06:927][389]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.06:958][390]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.06:991][391]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.07:025][392]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.07:058][393]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.07:092][394]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.07:127][395]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.07:157][396]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.07:190][397]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.07:225][398]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.07:259][399]LogLevel: ActivateLevel /Game/MyAssets/Levels/UEDPIE_0_Part1 1 1 0
+[2022.10.26-18.59.22:507][856]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1160.000 Y=500.000 Z=70.000] for [BP_AI_Enemy_C]
+[2022.10.26-18.59.23:507][886]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1160.000 Y=500.000 Z=70.000] for [BP_AI_Enemy_C]
+[2022.10.26-18.59.24:505][916]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1160.000 Y=500.000 Z=70.000] for [BP_AI_Enemy_C]
+[2022.10.26-18.59.24:705][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-18.59.24:705][921]LogWorld: BeginTearingDown for /Game/MyAssets/Levels/UEDPIE_0_Practice7
+[2022.10.26-18.59.24:707][921]LogWorld: UWorld::CleanupWorld for Practice7, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-18.59.24:708][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-18.59.24:747][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.26-18.59.24:749][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-18.59.24:759][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.26-18.59.24:759][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.26-18.59.24:760][921]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.26-18.59.24:770][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.26-18.59.24:831][922]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.10.26-18.59.24:842][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.26-18.59.29:130][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part8" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-18.59.29:138][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.10.26-18.59.29:146][ 30]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part8
+[2022.10.26-18.59.29:147][ 30]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part877D30D4B4708523296366C989FA057C2.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap'
+[2022.10.26-18.59.29:238][ 30]AssetCheck: New page: Asset Save: Part8
+[2022.10.26-18.59.29:238][ 30]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part8.Part8
+[2022.10.26-19.00.23:097][502]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyAssets/Blueprints/LoadPart.LoadPart
+[2022.10.26-19.00.23:099][502]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.26-19.00.24:939][502]LogSlate: Took 0.003731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.26-19.00.53:153][855]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.26-19.01.31:778][282]BlueprintLog: New page: Compile LoadPart
+[2022.10.26-19.01.31:879][282]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.10.26-19.01.32:806][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Blueprints/LoadPart" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Blueprints/LoadPart.uasset" SILENT=true
+[2022.10.26-19.01.32:810][290]LogSavePackage: Moving output files for package: /Game/MyAssets/Blueprints/LoadPart
+[2022.10.26-19.01.32:810][290]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/LoadPart4F052D704EFB472ACE25209E081EA0C2.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Blueprints/LoadPart.uasset'
+[2022.10.26-19.01.32:918][290]AssetCheck: New page: Asset Save: LoadPart
+[2022.10.26-19.01.32:918][290]LogContentValidation: Display: Validating Blueprint /Game/MyAssets/Blueprints/LoadPart.LoadPart
+[2022.10.26-19.03.36:240][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part8" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-19.03.36:269][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.26-19.03.36:278][728]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part8
+[2022.10.26-19.03.36:278][728]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part84FB38673412DC8C2FDBD88B2B25E7276.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap'
+[2022.10.26-19.03.36:353][728]AssetCheck: New page: Asset Save: Part8
+[2022.10.26-19.03.36:353][728]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part8.Part8
+[2022.10.26-19.06.02:638][941]Cmd: DELETE
+[2022.10.26-19.06.02:638][941]Cmd: ACTOR DELETE
+[2022.10.26-19.06.02:649][941]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2022.10.26-19.06.02:687][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.26-19.06.02:688][941]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2022.10.26-19.06.35:318][838]LogViewport: Scene viewport resized to 1379x848, mode Windowed.
+[2022.10.26-19.06.35:422][840]LogViewport: Scene viewport resized to 1216x848, mode Windowed.
+[2022.10.26-19.06.35:511][842]LogViewport: Scene viewport resized to 1127x848, mode Windowed.
+[2022.10.26-19.06.35:585][844]LogViewport: Scene viewport resized to 1096x848, mode Windowed.
+[2022.10.26-19.06.35:652][846]LogViewport: Scene viewport resized to 1081x848, mode Windowed.
+[2022.10.26-19.06.35:724][848]LogViewport: Scene viewport resized to 1024x848, mode Windowed.
+[2022.10.26-19.06.35:805][850]LogViewport: Scene viewport resized to 1018x848, mode Windowed.
+[2022.10.26-19.06.36:585][874]LogViewport: Scene viewport resized to 1019x848, mode Windowed.
+[2022.10.26-19.06.36:752][879]LogViewport: Scene viewport resized to 1040x848, mode Windowed.
+[2022.10.26-19.06.39:989][961]Cmd: TRANSACTION UNDO
+[2022.10.26-19.06.39:989][961]LogEditorTransaction: Undo Set Item Visibility
+[2022.10.26-19.06.40:692][973]Cmd: TRANSACTION UNDO
+[2022.10.26-19.06.40:692][973]LogEditorTransaction: Undo Set Item Visibility
+[2022.10.26-19.06.40:963][977]Cmd: TRANSACTION UNDO
+[2022.10.26-19.06.40:963][977]LogEditorTransaction: Undo Clicking on Actors
+[2022.10.26-19.06.41:229][981]Cmd: TRANSACTION UNDO
+[2022.10.26-19.06.41:229][981]LogEditorTransaction: Undo Set Item Visibility
+[2022.10.26-19.06.41:563][986]Cmd: TRANSACTION UNDO
+[2022.10.26-19.06.41:563][986]LogEditorTransaction: Undo Set Item Visibility
+[2022.10.26-19.06.41:764][989]Cmd: TRANSACTION UNDO
+[2022.10.26-19.06.41:764][989]LogEditorTransaction: Undo Set Item Visibility
+[2022.10.26-19.13.11:494][555]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.26-19.13.11:522][555]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Practice7
+[2022.10.26-19.13.11:523][555]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Practice77E404E7C4017E5A03C01259EED7EED5B.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Practice7.umap'
+[2022.10.26-19.13.11:540][555]LogFileHelpers: No new changes to save!
+[2022.10.26-19.13.11:588][555]AssetCheck: New page: Asset Save: Practice7
+[2022.10.26-19.13.11:588][555]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Practice7.Practice7
+[2022.10.26-19.13.12:139][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part1" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-19.13.12:167][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.26-19.13.12:175][564]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part1
+[2022.10.26-19.13.12:176][564]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part1B313EA0C4D36F8DDEBE24FA8DD53F55F.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part1.umap'
+[2022.10.26-19.13.12:253][564]AssetCheck: New page: Asset Save: Part1
+[2022.10.26-19.13.12:253][564]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part1.Part1
+[2022.10.26-19.13.12:832][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part2" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-19.13.12:859][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.26-19.13.12:868][572]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part2
+[2022.10.26-19.13.12:869][572]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part2E9FF7563463DAAA0A40361804699109E.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part2.umap'
+[2022.10.26-19.13.12:941][572]AssetCheck: New page: Asset Save: Part2
+[2022.10.26-19.13.12:941][572]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part2.Part2
+[2022.10.26-19.13.13:383][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part3" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-19.13.13:410][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.10.26-19.13.13:419][578]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part3
+[2022.10.26-19.13.13:419][578]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part3579D0CD644EDF9731B5CEF8381642983.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part3.umap'
+[2022.10.26-19.13.13:493][578]AssetCheck: New page: Asset Save: Part3
+[2022.10.26-19.13.13:493][578]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part3.Part3
+[2022.10.26-19.13.14:356][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part4" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-19.13.14:383][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.26-19.13.14:390][592]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part4
+[2022.10.26-19.13.14:391][592]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part42E9096DA4B8933960A9A90B3820C67B4.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part4.umap'
+[2022.10.26-19.13.14:467][592]AssetCheck: New page: Asset Save: Part4
+[2022.10.26-19.13.14:467][592]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part4.Part4
+[2022.10.26-19.13.14:914][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part5" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part5.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-19.13.14:942][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.10.26-19.13.14:948][600]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part5
+[2022.10.26-19.13.14:950][600]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part570F8D3C44C371F51138C53AF5842333C.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part5.umap'
+[2022.10.26-19.13.15:026][600]AssetCheck: New page: Asset Save: Part5
+[2022.10.26-19.13.15:026][600]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part5.Part5
+[2022.10.26-19.13.15:575][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part6" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part6.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-19.13.15:601][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.26-19.13.15:610][608]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part6
+[2022.10.26-19.13.15:611][608]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part61FFC5A1249E9F0A958AC33B7BD66EA4B.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part6.umap'
+[2022.10.26-19.13.15:687][608]AssetCheck: New page: Asset Save: Part6
+[2022.10.26-19.13.15:687][608]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part6.Part6
+[2022.10.26-19.13.16:144][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part7" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part7.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-19.13.16:171][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.26-19.13.16:178][615]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part7
+[2022.10.26-19.13.16:178][615]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part7348697D04D6C2DFF3B02628D7A7CEA39.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part7.umap'
+[2022.10.26-19.13.16:253][615]AssetCheck: New page: Asset Save: Part7
+[2022.10.26-19.13.16:253][615]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part7.Part7
+[2022.10.26-19.13.16:837][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyAssets/Levels/Part8" FILE="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.26-19.13.16:864][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.10.26-19.13.16:873][625]LogSavePackage: Moving output files for package: /Game/MyAssets/Levels/Part8
+[2022.10.26-19.13.16:873][625]LogSavePackage: Moving 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Part8B2957F54499DD23F6A8FCB8229ADFD3C.tmp' to 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/MyAssets/Levels/Part8.umap'
+[2022.10.26-19.13.16:949][625]AssetCheck: New page: Asset Save: Part8
+[2022.10.26-19.13.16:950][625]LogContentValidation: Display: Validating World /Game/MyAssets/Levels/Part8.Part8
+[2022.10.26-19.13.48:936][415]LogDialogs: Warning: Suppressed: Removing levels cannot be undone.  Proceed?
+[2022.10.26-19.13.48:940][415]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.10.26-19.13.48:940][415]LogWorld: UWorld::CleanupWorld for Part1, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.13.48:940][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-19.13.49:068][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.26-19.13.49:096][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.26-19.13.49:097][415]MapCheck: New page: Map Check
+[2022.10.26-19.13.49:097][415]LightingResults: New page: Lighting Build
+[2022.10.26-19.13.49:122][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.26-19.13.49:124][415]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.10.26-19.13.49:124][415]LogWorld: UWorld::CleanupWorld for Part2, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.13.49:124][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-19.13.49:150][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.26-19.13.49:176][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.26-19.13.49:177][415]MapCheck: New page: Map Check
+[2022.10.26-19.13.49:177][415]LightingResults: New page: Lighting Build
+[2022.10.26-19.13.49:203][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.26-19.13.49:205][415]LogWorld: UWorld::CleanupWorld for Part3, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.13.49:205][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-19.13.49:231][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.10.26-19.13.49:259][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.10.26-19.13.49:260][415]MapCheck: New page: Map Check
+[2022.10.26-19.13.49:260][415]LightingResults: New page: Lighting Build
+[2022.10.26-19.13.49:286][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.26-19.13.49:288][415]LogWorld: UWorld::CleanupWorld for Part4, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.13.49:288][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-19.13.49:316][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.10.26-19.13.49:347][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.26-19.13.49:348][415]MapCheck: New page: Map Check
+[2022.10.26-19.13.49:348][415]LightingResults: New page: Lighting Build
+[2022.10.26-19.13.49:376][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.26-19.13.49:378][415]LogWorld: UWorld::CleanupWorld for Part5, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.13.49:378][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-19.13.49:408][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.26-19.13.49:435][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.26-19.13.49:436][415]MapCheck: New page: Map Check
+[2022.10.26-19.13.49:436][415]LightingResults: New page: Lighting Build
+[2022.10.26-19.13.49:462][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.26-19.13.49:466][415]LogWorld: UWorld::CleanupWorld for Part6, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.13.49:466][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-19.13.49:493][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.26-19.13.49:521][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.26-19.13.49:522][415]MapCheck: New page: Map Check
+[2022.10.26-19.13.49:522][415]LightingResults: New page: Lighting Build
+[2022.10.26-19.13.49:548][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.26-19.13.49:552][415]LogWorld: UWorld::CleanupWorld for Part7, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.13.49:552][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-19.13.49:579][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.26-19.13.49:606][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.26-19.13.49:607][415]MapCheck: New page: Map Check
+[2022.10.26-19.13.49:607][415]LightingResults: New page: Lighting Build
+[2022.10.26-19.13.49:633][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.26-19.13.49:635][415]LogWorld: UWorld::CleanupWorld for Part8, bSessionEnded=true, bCleanupResources=true
+[2022.10.26-19.13.49:636][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.26-19.13.49:664][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.26-19.13.49:691][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.26-19.13.49:692][415]MapCheck: New page: Map Check
+[2022.10.26-19.13.49:692][415]LightingResults: New page: Lighting Build
+[2022.10.26-19.13.49:717][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.26-19.13.49:744][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.26-19.13.49:747][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2022.10.26-19.13.49:748][415]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2022.10.26-19.13.59:044][665]Cmd: TRANSACTION UNDO
+[2022.10.26-19.13.59:044][665]LogEditorTransaction: Undo Clicking on Elements
+[2022.10.26-19.14.12:016][833]LogRHI: Error: Breadcrumbs 'RHIThread'
+
+[2022.10.26-19.14.12:016][833]LogRHI: Error: Breadcrumbs 'RHIThread'
+Context 1/3
+	00 Scene
+	01 PostProcessing
+	02 Bloom
+
+[2022.10.26-19.14.12:016][833]LogThreadingWindows: Error: Runnable thread Background Worker #5 crashed.
+[2022.10.26-19.14.12:016][833]LogWindows: Error: === Critical error: ===
+[2022.10.26-19.14.12:016][833]LogWindows: Error: 
+[2022.10.26-19.14.12:016][833]LogWindows: Error: Fatal error!
+[2022.10.26-19.14.12:016][833]LogWindows: Error: 
+[2022.10.26-19.14.12:016][833]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x000000f700000216
+[2022.10.26-19.14.12:016][833]LogWindows: Error: 
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa5c6d9986 UnrealEditor-Engine.dll!RenderAssetInstanceTask::FRefreshVisibility::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Streaming\TextureInstanceTask.cpp:32]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa5c70b288 UnrealEditor-Engine.dll!RenderAssetInstanceTask::FDoWorkTask::DoWork() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\Streaming\TextureInstanceTask.cpp:186]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa5c7090c8 UnrealEditor-Engine.dll!FAsyncTask<RenderAssetInstanceTask::FDoWorkTask>::DoWork() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Async\AsyncWork.h:304]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa5c708b9e UnrealEditor-Engine.dll!FAsyncTask<RenderAssetInstanceTask::FDoWorkTask>::DoThreadedWork() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Async\AsyncWork.h:328]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa636631e2 UnrealEditor-Core.dll!FQueuedThreadPoolWrapper::FScheduledWork::DoThreadedWork() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Misc\QueuedThreadPoolWrapper.cpp:21]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa6364ebb4 UnrealEditor-Core.dll!<lambda_925f6c2453012060ddab4eb171196a20>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Async\Fundamental\Task.h:333]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa6365bcff UnrealEditor-Core.dll!LowLevelTasks::TTaskDelegate<void __cdecl(bool),48>::TTaskDelegateImpl<<lambda_925f6c2453012060ddab4eb171196a20>,0>::CallAndMove() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Async\Fundamental\TaskDelegate.h:171]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa632fe398 UnrealEditor-Core.dll!LowLevelTasks::FTask::ExecuteTask() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Async\Fundamental\Task.h:426]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa632e2a78 UnrealEditor-Core.dll!LowLevelTasks::FScheduler::TryExecuteTaskFrom<&LowLevelTasks::TLocalQueueRegistry<1024>::TLocalQueue::DequeueGlobal,0>() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\Fundamental\Scheduler.cpp:280]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa6331ea02 UnrealEditor-Core.dll!LowLevelTasks::FScheduler::WorkerMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Async\Fundamental\Scheduler.cpp:320]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa632ef4d0 UnrealEditor-Core.dll!UE::Core::Private::Function::TFunctionRefCaller<<lambda_776551d1e343b6cb7eaf0e5521c77c81>,void __cdecl(void)>::Call() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Templates\Function.h:549]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa63453d45 UnrealEditor-Core.dll!FThreadImpl::Run() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\HAL\Thread.cpp:69]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa639e7a2b UnrealEditor-Core.dll!FRunnableThreadWin::Run() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:146]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffa639e0a90 UnrealEditor-Core.dll!FRunnableThreadWin::GuardedRun() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\Windows\WindowsRunnableThread.cpp:76]
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffaeeb6244d KERNEL32.DLL!UnknownFunction []
+[2022.10.26-19.14.12:016][833]LogWindows: Error: [Callstack] 0x00007ffaef52df78 ntdll.dll!UnknownFunction []
+[2022.10.26-19.14.12:016][833]LogWindows: Error: 
+[2022.10.26-19.14.12:016][833]LogWindows: Error: Crash in runnable thread Background Worker #5
+[2022.10.26-19.14.12:064][833]LogExit: Executing StaticShutdownAfterError
+[2022.10.26-19.14.12:064][833]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.10.26-19.14.12:064][833]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 3)
+[2022.10.26-19.14.12:064][833]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.10.26-19.14.12:071][833]Log file closed, 10/26/22 22:14:12

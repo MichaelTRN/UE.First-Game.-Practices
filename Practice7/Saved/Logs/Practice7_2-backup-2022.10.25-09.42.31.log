@@ -1,0 +1,1593 @@
+﻿Log file open, 10/25/22 12:31:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=16032)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Practice7
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Practice7.uproject" /Game/MyAssets/Levels/Practice7 -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.674] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="bd7ed23a4663f5e43408c1bbc3a2d79a"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.299441
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-469FF9C9429810630ADE37B0A63B7309
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Linux ini files took 0.05 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin NiagaraFluids
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/NiagaraFluids/Content/' mounted to '/NiagaraFluids/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.674] (), CPU: 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, GPU: Intel(R) Iris(R) Xe Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  /Game/MyAssets/Levels/Practice7 -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -ResX=1280 -ResY=720
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogLinker: AddRedirectList(D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Config/WindowsEditor/NiagaraFluids.ini) has substring redirect /NiagaraSimulationStages/, these are very slow and should be resolved as soon as possible!
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.25-09.31.57:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.25-09.31.57:639][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.25-09.31.57:640][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.25-09.31.57:640][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.25-09.31.57:760][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.25-09.31.57:760][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.25-09.31.57:760][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.25-09.31.57:760][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.25-09.31.57:760][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.25-09.31.57:760][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.25-09.31.57:760][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.25-09.31.57:760][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.25-09.31.57:760][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.25-09.31.57:760][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.25-09.31.57:760][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.25-09.31.57:884][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.25-09.31.57:884][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.25-09.31.58:031][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3050 Laptop GPU (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.25-09.31.58:031][  0]LogD3D12RHI: Adapter has 3991MB of dedicated video memory, 0MB of dedicated system memory, and 20318MB of shared system memory, 2 output[s]
+[2022.10.25-09.31.58:075][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) Iris(R) Xe Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.25-09.31.58:075][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 20318MB of shared system memory, 0 output[s]
+[2022.10.25-09.31.58:078][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.25-09.31.58:078][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 20318MB of shared system memory, 0 output[s]
+[2022.10.25-09.31.58:078][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.25-09.31.58:079][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.25-09.31.58:079][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.25-09.31.58:079][  0]LogHAL: Display: Platform has ~ 40 GB [42611675136 / 68719476736 / 40], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.25-09.31.58:079][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.25-09.31.58:079][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.25-09.31.58:079][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.25-09.31.58:079][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.25-09.31.58:079][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.25-09.31.58:079][  0]LogInit: Computer: MICHAEL-PC
+[2022.10.25-09.31.58:079][  0]LogInit: User: petro
+[2022.10.25-09.31.58:079][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.10.25-09.31.58:079][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.25-09.31.58:079][  0]LogMemory: Memory total: Physical=39.7GB (40GB approx)
+[2022.10.25-09.31.58:079][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.25-09.31.58:079][  0]LogMemory: Process Physical Memory: 277.11 MB used, 285.85 MB peak
+[2022.10.25-09.31.58:079][  0]LogMemory: Process Virtual Memory: 221.72 MB used, 221.72 MB peak
+[2022.10.25-09.31.58:079][  0]LogMemory: Physical Memory: 10509.05 MB used,  30128.61 MB free, 40637.66 MB total
+[2022.10.25-09.31.58:079][  0]LogMemory: Virtual Memory: 14374.41 MB used,  28823.25 MB free, 43197.66 MB total
+[2022.10.25-09.31.58:080][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.25-09.31.58:086][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.25-09.31.58:104][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.25-09.31.58:104][  0]LogInit: Using OS detected language (uk-UA).
+[2022.10.25-09.31.58:104][  0]LogInit: Using OS detected locale (uk-UA).
+[2022.10.25-09.31.58:108][  0]LogTextLocalizationManager: No localization for 'uk-UA' exists, so 'en' will be used for the language.
+[2022.10.25-09.31.58:109][  0]LogTextLocalizationManager: No localization for 'uk-UA' exists, so 'en' will be used for the locale.
+[2022.10.25-09.31.58:261][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.25-09.31.58:261][  0]LogWindowsTextInputMethodSystem:   - Українська (Україна) - (Keyboard).
+[2022.10.25-09.31.58:261][  0]LogWindowsTextInputMethodSystem:   - Російська (Росія) - (Keyboard).
+[2022.10.25-09.31.58:261][  0]LogWindowsTextInputMethodSystem:   - Англійська (США) - (Keyboard).
+[2022.10.25-09.31.58:261][  0]LogWindowsTextInputMethodSystem:   - Українська (Україна) - Виправлення сенсорного вводу (TSF IME).
+[2022.10.25-09.31.58:261][  0]LogWindowsTextInputMethodSystem: Activated input method: Англійська (США) - (Keyboard).
+[2022.10.25-09.31.58:379][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.25-09.31.58:379][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.25-09.31.58:485][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.25-09.31.58:488][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.25-09.31.58:488][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.25-09.31.58:551][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.25-09.31.58:551][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.25-09.31.58:551][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.25-09.31.58:551][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.25-09.31.58:551][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.25-09.31.58:551][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.25-09.31.58:551][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.25-09.31.58:551][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.25-09.31.58:551][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.25-09.31.58:551][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.25-09.31.58:553][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.10.25-09.31.58:553][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.25-09.31.58:553][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.25-09.31.58:553][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.25-09.31.58:553][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.25-09.31.58:553][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.25-09.31.58:594][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.25-09.31.58:600][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.25-09.31.58:611][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.25-09.31.58:620][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.25-09.31.58:620][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.25-09.31.58:621][  0]LogD3D12RHI:     GPU DeviceId: 0x25a5 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.25-09.31.58:621][  0]LogWindows: Attached monitors:
+[2022.10.25-09.31.58:621][  0]LogWindows:     resolution: 1536x864, work area: (0, 0) -> (1536, 816), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.25-09.31.58:621][  0]LogWindows:     resolution: 1920x1080, work area: (0, -1080) -> (1920, -48), device: '\\.\DISPLAY5'
+[2022.10.25-09.31.58:621][  0]LogWindows: Found 2 attached monitors.
+[2022.10.25-09.31.58:621][  0]LogWindows: EnumDisplayDevices:
+[2022.10.25-09.31.58:621][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.25-09.31.58:621][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.10.25-09.31.58:621][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.25-09.31.58:621][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.25-09.31.58:622][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3050 Laptop GPU' (P:0 D:1), name: '\\.\DISPLAY5'
+[2022.10.25-09.31.58:622][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.10.25-09.31.58:622][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Laptop GPU
+[2022.10.25-09.31.58:622][  0]LogD3D12RHI:   Driver Version: 522.25 (internal:31.0.15.2225, unified:522.25)
+[2022.10.25-09.31.58:622][  0]LogD3D12RHI:      Driver Date: 10-6-2022
+[2022.10.25-09.31.58:622][  0]LogRHI: Texture pool is 2137 MB (70% of 3053 MB)
+[2022.10.25-09.31.58:622][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.25-09.31.58:622][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.25-09.31.58:630][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.25-09.31.58:638][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Practice7.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/TurnkeyReport_0.log" -log="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/TurnkeyLog_0.log" -project="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Practice7.uproject"  -platform=all'
+[2022.10.25-09.31.58:638][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Practice7.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/TurnkeyReport_0.log" -log="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/TurnkeyLog_0.log" -project="D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Practice7.uproject"  -platform=all" ]
+[2022.10.25-09.31.58:668][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.25-09.31.58:695][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.25-09.31.58:695][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.25-09.31.58:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.25-09.31.58:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.25-09.31.58:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.25-09.31.58:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.25-09.31.58:703][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.25-09.31.58:711][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.25-09.31.58:715][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.25-09.31.58:715][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.25-09.31.58:715][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.25-09.31.58:715][  0]LogTargetPlatformManager:   PCM
+[2022.10.25-09.31.58:718][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.25-09.31.58:718][  0]LogTargetPlatformManager:   BINKA
+[2022.10.25-09.31.58:718][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.25-09.31.58:718][  0]LogTargetPlatformManager:   OGG
+[2022.10.25-09.31.58:718][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.25-09.31.58:718][  0]LogTargetPlatformManager:   OPUS
+[2022.10.25-09.31.58:761][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.25-09.31.58:761][  0]LogRendererCore: Ray tracing is enabled for the game. Reason: r.RayTracing=1, and r.RayTracing.EnableInGame is not present (default true).
+[2022.10.25-09.31.58:761][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.25-09.31.58:761][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.25-09.31.58:761][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.25-09.31.58:761][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.25-09.31.58:763][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UE5 First Game/UE.First-Game.-Practices/Practice7/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.25-09.31.58:763][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.25-09.31.58:763][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UE5 First Game/UE.First-Game.-Practices/Practice7/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.25-09.31.58:763][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.25-09.31.58:785][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.25-09.31.58:785][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.25-09.31.58:785][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.25-09.31.58:792][  0]LogDerivedDataCache: Speed tests for C:/Users/petro/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.10.25-09.31.58:792][  0]LogDerivedDataCache: Display: Performance to C:/Users/petro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=466.29MBs, RandomWriteSpeed=216.90MBs. Assigned SpeedClass 'Local'
+[2022.10.25-09.31.58:793][  0]LogDerivedDataCache: Using Local data cache path C:/Users/petro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.25-09.31.58:793][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.25-09.31.58:793][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.25-09.31.58:799][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.25-09.31.58:799][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.25-09.31.58:799][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Intermediate/Shaders/WorkingDirectory/5940/).
+[2022.10.25-09.31.58:799][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/petro/AppData/Local/Temp/UnrealShaderWorkingDir/5B10ED0A4F01F04E6AF2C1BD4A38C5BC/'.
+[2022.10.25-09.31.58:799][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.25-09.31.58:799][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.10.25-09.32.00:070][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.25-09.32.00:070][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.25-09.32.00:178][  0]LogInit: Using OS detected language (uk-UA).
+[2022.10.25-09.32.00:178][  0]LogInit: Using OS detected locale (uk-UA).
+[2022.10.25-09.32.00:179][  0]LogTextLocalizationManager: No localization for 'uk-UA' exists, so 'en' will be used for the language.
+[2022.10.25-09.32.00:179][  0]LogTextLocalizationManager: No localization for 'uk-UA' exists, so 'en' will be used for the locale.
+[2022.10.25-09.32.00:192][  0]LogAssetRegistry: FAssetRegistry took 0.0128 seconds to start up
+[2022.10.25-09.32.00:391][  0]LogPackageLocalizationCache: Processed 31 localized package path(s) for 1 prioritized culture(s) in 0.001757 seconds
+[2022.10.25-09.32.00:392][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.25-09.32.00:392][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2022.10.25-09.32.00:632][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.25-09.32.00:632][  0]LogDeviceProfileManager: Active device profile: [00000B166636C5C0][00000B165CF3A000 50] WindowsEditor
+[2022.10.25-09.32.00:632][  0]LogDeviceProfileManager: Profiles: [00000B166636C080][00000B165CF37800 50] Windows, [00000B166636C5C0][00000B165CF3A000 50] WindowsEditor, [00000B166636BD00][00000B165CEEA000 50] WindowsServer, [00000B1666368DC0][00000B165CF90000 50] WindowsClient, [00000B1666368C00][00000B1650F07800 50] IOS, [00000B166636C780][00000B166248C800 50] iPadAir2, [00000B166636CCC0][00000B16516F0000 50] IPadPro, [00000B166636D040][00000B165CF92800 50] iPadAir3, [00000B1666369680][00000B16667F0000 50] iPadAir4, [00000B166636BEC0][00000B16667F5000 50] iPadMini4, [00000B1666367E00][00000B16667F7800 50] iPadMini5, [00000B166636B980][00000B16667FA000 50] iPadMini6, [00000B166636F880][00000B1666920000 50] iPhone6S, [00000B166636F6C0][00000B1666922800 50] iPhone7, [00000B166636F340][00000B1666925000 50] iPodTouch7, [00000B166636DAC0][00000B166692A000 50] iPhone6SPlus, [00000B166636A2C0][00000B166692C800 50] iPhone7Plus, [00000B166636D580][00000B165CF35000 50] iPhoneSE, [00000B166636B7C0][00000B16667FC800 50] iPhone8, [00000B1666368F80][00000B1666927800 50] iPhone8Plus, [00000B166636F500][00000B16668E0000 50] iPhoneX, [00000B1666365400][00000B16668E5000 50] iPhoneXS, [00000B166636B440][00000B16668E7800 50] iPhoneXSMax, [00000B166636A100][00000B16668EA000 50] iPhoneXR, [00000B166636D900][00000B16668EC800 50] iPhone11, [00000B1666369D80][00000B16667F2800 50] iPhone11Pro, [00000B166636DC80][00000B1666940000 50] iPhone11ProMax, [00000B166636C400][00000B1666945000 50] iPhoneSE2, [00000B1666369BC0][00000B1666947800 50] iPhone12Mini, [00000B166636F180][00000B166694A000 50] iPhone12, [00000B166636E8C0][00000B166694C800 50] iPhone12Pro, [00000B1666367000][00000B16668E2800 50] iPhone12ProMax, [00000B166636E540][00000B1666900000 50] iPhone13Mini, [00000B166636C940][00000B1666905000 50] iPhone13, [00000B166636D200][00000B1666907800 50] iPhone13Pro, [00000B1666368180][00000B166690A000 50] iPhone13ProMax, [00000B166636AD40][00000B166690C800 50] iPadPro105, [00000B16663694C0][00000B1666942800 50] iPadPro129, [00000B166636A640][00000B1666910000 50] iPadPro97, [00000B1666367FC0][00000B1666915000 50] iPadPro2_129, [00000B166636D740][00000B1666917800 50] iPad5, [00000B166636BB40][00000B166691A000 50] iPad6, [00000B166636B0C0][00000B166691C800 50] iPad7, [00000B166636E380][00000B1666902800 50] iPad8, [00000B1666368A40][00000B1666820000 50] iPad9, [00000B166636EFC0][00000B1666825000 50] iPadPro11, [00000B166636A9C0][00000B1666827800 50] iPadPro2_11, [00000B166636AB80][00000B166682A000 50] iPadPro3_11, [00000B1666368340][00000B166682C800 50] iPadPro3_129, [00000B166636E1C0][00000B1666912800 50] iPadPro4_129, [00000B166636A480][00000B1666830000 50] iPadPro5_129, [00000B166636A800][00000B1666835000 50] AppleTV, [00000B166636E700][00000B1666837800 50] AppleTV4K, [00000B166636EC40][00000B166683A000 50] TVOS, [00000B1666871DC0][00000B1666822800 50] Mac, [00000B1666872140][00000B166683C800 50] MacEditor, [00000B16668708C0][00000B1666840000 50] MacClient, [00000B1666870380][00000B1666845000 50] MacServer, [00000B1666874980][00000B166684A000 50] Linux, [00000B1666874D00][00000B1666847800 50] LinuxEditor, [00000B16668701C0][00000B166684C800 50] LinuxArm64Editor, [00000B1666874440][00000B1666832800 50] LinuxArm64, [00000B1666870E00][00000B1666850000 50] LinuxClient, [00000B1666873F00][00000B1666855000 50] LinuxArm64Client, [00000B1666871180][00000B1666857800 50] LinuxServer, [00000B1666873480][00000B166685A000 50] LinuxArm64Server, [00000B16668724C0][00000B166685C800 50] Android, [00000B16668732C0][00000B1666842800 50] Android_Preview_OpenGL, [00000B1666871F80][00000B1666860000 50] Android_Preview_Vulkan, [00000B1666874B40][00000B1666865000 50] Android_Low, [00000B1666871340][00000B1666867800 50] Android_Mid, [00000B1666872F40][00000B166686A000 50] Android_High, [00000B16668747C0][00000B166686C800 50] Android_Default, [00000B1666872D80][00000B1666852800 50] Android_Adreno4xx, [00000B16668739C0][00000B1666880000 50] Android_Adreno5xx_Low, [00000B1666870FC0][00000B1666885000 50] Android_Adreno5xx, [00000B1666870000][00000B1666887800 50] Android_Adreno6xx, [00000B1666872680][00000B166688A000 50] Android_Adreno6xx_Vulkan, [00000B1666873B80][00000B166688C800 50] Android_Adreno7xx, [00000B16668716C0][00000B1666862800 50] Android_Adreno7xx_Vulkan, [00000B16668740C0][00000B1666890000 50] Android_Mali_T6xx, [00000B1666875940][00000B1666895000 50] Android_Mali_T7xx, [00000B1666872BC0][00000B1666897800 50] Android_Mali_T8xx, [00000B1666874280][00000B166689A000 50] Android_Mali_G71, [00000B1666873D40][00000B166689C800 50] Android_Mali_G72, [00000B1666870A80][00000B1666882800 50] Android_Mali_G72_Vulkan, [00000B1666875400][00000B16668A0000 50] Android_Mali_G76, [00000B16668755C0][00000B16668A5000 50] Android_Mali_G76_Vulkan, [00000B1666872840][00000B16668A7800 50] Android_Mali_G77, [00000B1666873640][00000B16668AA000 50] Android_Mali_G77_Vulkan, [00000B1666876AC0][00000B16668AC800 50] Android_Mali_G78, [00000B1666872300][00000B1666892800 50] Android_Mali_G78_Vulkan, [00000B1666875240][00000B16668B0000 50] Android_Mali_G710, [00000B1666871C00][00000B16668B5000 50] Android_Mali_G710_Vulkan, [00000B1666875CC0][00000B16668B7800 50] Android_Xclipse_920, [00000B1666876580][00000B16668BA000 50] Android_Xclipse_920_Vulkan, [00000B1666870540][00000B16668BC800 50] Android_Vulkan_SM5, [00000B1666876200][00000B16668A2800 50] Android_PowerVR_G6xxx, [00000B16668778C0][00000B16668C0000 50] Android_PowerVR_GT7xxx, [00000B1666876C80][00000B16668C5000 50] Android_PowerVR_GE8xxx, [00000B16668763C0][00000B16668C7800 50] Android_PowerVR_GM9xxx, [00000B1666871500][00000B16668CA000 50] Android_PowerVR_GM9xxx_Vulkan, [00000B1666875080][00000B16668CC800 50] Android_TegraK1, [00000B1666877380][00000B16668B2800 50] Android_Unknown_Vulkan, [00000B1666870700][00000B1666960000 50] Oculus_Quest, [00000B1666875780][00000B1666965000 50] Oculus_Quest2, [00000B1666873800][00000B1666967800 50] HoloLens, 
+[2022.10.25-09.32.00:632][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.25-09.32.00:646][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.25-09.32.00:837][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.25-09.32.00:837][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.25-09.32.00:837][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.25-09.32.00:837][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.25-09.32.00:837][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.25-09.32.00:950][  0]LogNetVersion: Practice7 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 245266156)
+[2022.10.25-09.32.01:157][  0]SourceControl: Source control is disabled
+[2022.10.25-09.32.01:186][  0]SourceControl: Source control is disabled
+[2022.10.25-09.32.01:186][  0]SourceControl: Source control is disabled
+[2022.10.25-09.32.01:391][  0]LogMoviePlayer: Initializing movie player
+[2022.10.25-09.32.01:589][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 649484CE465151C1992E40B424C6A413 | Instance: 943EF78C4718372A9BB0D3BCC17DEA50 (MICHAEL-PC-5940).
+[2022.10.25-09.32.01:608][  0]LogCollectionManager: Loaded 0 collections in 0.001019 seconds
+[2022.10.25-09.32.01:612][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Saved/Collections/' took 0.00s
+[2022.10.25-09.32.01:612][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/Developers/petro/Collections/' took 0.00s
+[2022.10.25-09.32.01:612][  0]LogFileCache: Scanning file cache for directory 'D:/UE5 First Game/UE.First-Game.-Practices/Practice7/Content/Collections/' took 0.00s
+[2022.10.25-09.32.01:612][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.10.25-09.32.01:634][  0]LogPython: Using Python 3.9.7
+[2022.10.25-09.32.02:206][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.25-09.32.02:211][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.25-09.32.02:269][  0]SourceControl: Source control is disabled
+[2022.10.25-09.32.02:279][  0]LogUProjectInfo: Found projects:
+[2022.10.25-09.32.02:281][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.25-09.32.02:283][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.25-09.32.02:283][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.10.25-09.32.02:390][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.25-09.32.02:436][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.25-09.32.02:464][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.25-09.32.02:464][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.25-09.32.02:602][  0]LogUObjectArray: 27190 objects as part of root set at end of initial load.
+[2022.10.25-09.32.02:602][  0]LogUObjectAllocator: 7749912 out of 0 bytes used by permanent object pool.
+[2022.10.25-09.32.02:602][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.25-09.32.02:674][  0]LogEngine: Initializing Engine...
+[2022.10.25-09.32.02:678][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.25-09.32.02:845][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.25-09.32.02:845][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.25-09.32.02:855][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.25-09.32.02:855][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.25-09.32.02:855][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.25-09.32.02:855][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.25-09.32.02:855][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.25-09.32.02:855][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.25-09.32.02:855][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.25-09.32.02:855][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.25-09.32.02:855][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.25-09.32.02:855][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.25-09.32.02:855][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.25-09.32.02:856][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.25-09.32.02:856][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.25-09.32.02:856][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.25-09.32.02:856][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.25-09.32.02:856][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.25-09.32.02:861][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.25-09.32.03:164][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.10.25-09.32.03:164][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.25-09.32.03:165][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.25-09.32.03:165][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.25-09.32.03:165][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.25-09.32.03:165][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.25-09.32.03:166][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.25-09.32.03:166][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.25-09.32.03:166][  0]LogInit: FAudioDevice initialized.
+[2022.10.25-09.32.03:167][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.25-09.32.03:167][  0]LogInit: Texture streaming: Enabled
+[2022.10.25-09.32.03:258][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.25-09.32.03:264][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.25-09.32.03:264][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.25-09.32.03:267][  0]LogLiveCoding: Display: Detected running instance in process group "UE_Practice7_0x2e416445", connecting to console process (PID: 8384)
+[2022.10.25-09.32.03:268][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.25-09.32.03:268][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.25-09.32.03:268][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.25-09.32.03:268][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.25-09.32.03:269][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.25-09.32.03:269][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.25-09.32.03:271][  0]LogInit: Display: Game Engine Initialized.
+[2022.10.25-09.32.03:271][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.10.25-09.32.03:301][  0]LogInit: Display: Starting Game.
+[2022.10.25-09.32.03:302][  0]LogNet: Browse: /Game/MyAssets/Levels/Practice7?Name=Player
+[2022.10.25-09.32.03:302][  0]LogLoad: LoadMap: /Game/MyAssets/Levels/Practice7?Name=Player
+[2022.10.25-09.32.03:302][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.10.25-09.32.03:302][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.25-09.32.03:302][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.25-09.32.03:307][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.25-09.32.03:309][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.10.25-09.32.03:812][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule should be resaved to improve async compilation performance.
+[2022.10.25-09.32.03:857][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 should be resaved to improve async compilation performance.
+[2022.10.25-09.32.03:906][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Practice7'.
+[2022.10.25-09.32.03:906][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.25-09.32.03:906][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.25-09.32.03:933][  0]LogAIModule: Creating AISystem for world Practice7
+[2022.10.25-09.32.03:933][  0]LogLoad: Game class is 'BP_GameMode_C'
+[2022.10.25-09.32.03:939][  0]LogWorld: Bringing World /Game/MyAssets/Levels/Practice7.Practice7 up for play (max tick rate 0) at 2022.10.25-12.32.03
+[2022.10.25-09.32.03:939][  0]LogWorld: Bringing up level for play took: 0.002936
+[2022.10.25-09.32.03:949][  0]LogLoad: Took 0.647147 seconds to LoadMap(/Game/MyAssets/Levels/Practice7)
+[2022.10.25-09.32.03:949][  0]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.10.25-09.32.04:593][  0]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.25-09.32.04:836][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.25-09.32.04:836][  0]LogLoad: (Engine Initialization) Total time: 8.68 seconds
+[2022.10.25-09.32.04:836][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.25-09.32.08:628][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.25-09.32.12:820][216]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.25-09.32.26:382][ 72]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.10.25-09.32.36:043][688]LogCharacterMovement: BP_AI_Enemy_C_0 is stuck and failed to move! Velocity: X=-516.98 Y=-304.51 Z=0.00 Location: X=1497.76 Y=1053.02 Z=90.15 Normal: X=-0.05 Y=1.00 Z=0.00 PenetrationDepth:2.142 Actor:BP_AI_Enemy_C_2 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2022.10.25-09.32.40:914][995]LogBlueprintUserMessages: [BP_FirstAid_C_0] [+] You aren't damaged
+[2022.10.25-09.32.40:929][996]LogBlueprintUserMessages: [BP_FirstAid_C_0] [+] You aren't damaged
+[2022.10.25-09.32.40:929][996]LogBlueprintUserMessages: [BP_FirstAid_C_0] [+] You aren't damaged
+[2022.10.25-09.32.41:075][  6]LogBlueprintUserMessages: [BP_FirstAid_C_0] [+] You aren't damaged
+[2022.10.25-09.32.49:269][544]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 20 in '/Game/MyAssets/Levels/Practice7.Practice7_C:ExecuteUbergraph_Practice7'!
+[2022.10.25-09.32.49:270][544]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Practice7_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Practice7_C_3
+	Function /Game/MyAssets/Levels/Practice7.Practice7_C:ExecuteUbergraph_Practice7:0275
+[2022.10.25-09.32.49:270][544]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Levels/Practice7.Practice7_C:ExecuteUbergraph_Practice7
+
+[2022.10.25-09.32.54:316][903]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.32.54:316][903]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.32.54:316][903]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.32.54:316][903]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.32.55:322][975]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.32.55:322][975]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.32.55:322][975]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.32.55:322][975]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.32.55:826][ 11]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.32.55:826][ 11]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.32.55:826][ 11]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.32.55:826][ 11]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.32.56:335][ 47]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.32.56:335][ 47]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.32.56:335][ 47]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.32.56:335][ 47]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.32.56:847][ 85]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.32.56:847][ 85]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.32.56:847][ 85]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.32.56:847][ 85]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.33.08:656][911]LogCharacterMovement: BP_AI_Enemy_C_5 is stuck and failed to move! Velocity: X=187.17 Y=-348.05 Z=0.00 Location: X=-1099.40 Y=531.29 Z=90.15 Normal: X=-0.99 Y=0.10 Z=0.00 PenetrationDepth:2.285 Actor:BP_Player_C_0 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2022.10.25-09.33.09:919][996]LogCharacterMovement: BP_AI_Enemy_C_5 is stuck and failed to move! Velocity: X=19.48 Y=-31.41 Z=0.00 Location: X=-999.33 Y=163.15 Z=90.15 Normal: X=0.16 Y=-0.99 Z=0.00 PenetrationDepth:8.472 Actor:BP_AI_Enemy_C_3 Component:CharacterMesh0 BoneName:LeftHand (3 other events since notify)
+[2022.10.25-09.33.10:939][ 58]LogCharacterMovement: BP_AI_Enemy_C_5 is stuck and failed to move! Velocity: X=17.25 Y=-27.79 Z=0.00 Location: X=-999.39 Y=163.13 Z=90.15 Normal: X=-0.32 Y=-0.95 Z=0.00 PenetrationDepth:0.575 Actor:BP_AI_Enemy_C_3 Component:CharacterMesh0 BoneName:LeftHand (34 other events since notify)
+[2022.10.25-09.33.11:505][ 92]LogCharacterMovement: BP_AI_Enemy_C_3 is stuck and failed to move! Velocity: X=-40.98 Y=-100.81 Z=0.00 Location: X=-972.10 Y=231.84 Z=90.37 Normal: X=0.27 Y=-0.83 Z=0.48 PenetrationDepth:0.000 Actor:BP_Grenade_C_10 Component:SphereCollision BoneName:None (0 other events since notify)
+[2022.10.25-09.33.20:128][633]LogCharacterMovement: BP_AI_Enemy_C_4 is stuck and failed to move! Velocity: X=-19.88 Y=-64.73 Z=0.00 Location: X=1505.36 Y=880.36 Z=90.15 Normal: X=-0.10 Y=0.99 Z=0.00 PenetrationDepth:3.535 Actor:BP_AI_Enemy_C_3 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2022.10.25-09.33.22:028][764]LogCharacterMovement: BP_AI_Enemy_C_4 is stuck and failed to move! Velocity: X=-228.87 Y=-480.87 Z=0.00 Location: X=1253.56 Y=238.93 Z=90.25 Normal: X=0.66 Y=0.75 Z=0.02 PenetrationDepth:0.709 Actor:BP_AI_Enemy_C_3 Component:CharacterMesh0 BoneName:LeftArm (11 other events since notify)
+[2022.10.25-09.33.23:931][895]LogCharacterMovement: BP_AI_Enemy_C_5 is stuck and failed to move! Velocity: X=3.73 Y=-70.03 Z=0.00 Location: X=1116.31 Y=-79.70 Z=90.15 Normal: X=-0.99 Y=0.11 Z=0.00 PenetrationDepth:1.464 Actor:BP_Player_C_0 Component:CharacterMesh0 BoneName:Head (19 other events since notify)
+[2022.10.25-09.33.25:587][  9]LogCharacterMovement: BP_AI_Enemy_C_5 is stuck and failed to move! Velocity: X=31.68 Y=-73.90 Z=0.00 Location: X=1137.98 Y=-74.43 Z=90.08 Normal: X=-0.99 Y=0.13 Z=-0.00 PenetrationDepth:0.580 Actor:BP_Player_C_0 Component:CharacterMesh0 BoneName:RightHand (4 other events since notify)
+[2022.10.25-09.33.52:392][871]LogCharacterMovement: BP_AI_Enemy_C_7 is stuck and failed to move! Velocity: X=63.42 Y=-330.83 Z=0.00 Location: X=-1295.71 Y=-983.79 Z=90.15 Normal: X=0.98 Y=0.20 Z=0.00 PenetrationDepth:42.374 Actor:BP_AI_Enemy_C_8 Component:CharacterMesh0 BoneName:RightFoot (0 other events since notify)
+[2022.10.25-09.33.59:270][265]LogCharacterMovement: BP_AI_Enemy_C_8 is stuck and failed to move! Velocity: X=25.44 Y=27.12 Z=0.00 Location: X=-1733.02 Y=-1561.14 Z=94.21 Normal: X=0.31 Y=-0.75 Z=0.59 PenetrationDepth:6.385 Actor:BP_AI_Enemy_C_7 Component:CharacterMesh0 BoneName:LeftUpLeg (0 other events since notify)
+[2022.10.25-09.33.59:324][269]LogDerivedDataCache: C:/Users/petro/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.527 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.25-09.34.26:260][115]LogViewport: Scene viewport resized to 1920x1009, mode Windowed.
+[2022.10.25-09.34.46:761][799]LogAssetRegistry: Warning: GetFirstPackageByName is being called in `-game` to resolve partial package name. This may cause a slow scan on disk. Consider using the fully qualified package name for better performance. 
+[2022.10.25-09.34.46:775][799]LogPackageName: SearchForPackageOnDisk took   0.014s to resolve D:\UE5 First Game\UE.First-Game.-Practices\Practice6.
+[2022.10.25-09.34.46:775][799]LogNet: Browse: D:\UE5 First Game\UE.First-Game.-Practices\Practice6
+[2022.10.25-09.34.46:775][799]LogLoad: LoadMap: D:\UE5 First Game\UE.First-Game.-Practices\Practice6
+[2022.10.25-09.34.46:775][799]LogWorld: BeginTearingDown for /Game/MyAssets/Levels/Practice7
+[2022.10.25-09.34.46:777][799]LogWorld: UWorld::CleanupWorld for Practice7, bSessionEnded=true, bCleanupResources=true
+[2022.10.25-09.34.46:777][799]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.25-09.34.46:824][799]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.25-09.34.46:835][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.10.25-09.34.46:851][799]LogPackageName: SearchForPackageOnDisk took   0.012s to resolve /Game/MyAssets/Levels/Practice6.
+[2022.10.25-09.34.47:302][799]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule should be resaved to improve async compilation performance.
+[2022.10.25-09.34.47:342][799]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 should be resaved to improve async compilation performance.
+[2022.10.25-09.34.47:393][799]LogAudio: Display: Audio Device (ID: 1) registered with world 'Practice7'.
+[2022.10.25-09.34.47:393][799]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.25-09.34.47:393][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.25-09.34.47:394][799]LogAIModule: Creating AISystem for world Practice7
+[2022.10.25-09.34.47:394][799]LogLoad: Game class is 'BP_GameMode_C'
+[2022.10.25-09.34.47:397][799]LogWorld: Bringing World /Game/MyAssets/Levels/Practice7.Practice7 up for play (max tick rate 0) at 2022.10.25-12.34.47
+[2022.10.25-09.34.47:397][799]LogWorld: Bringing up level for play took: 0.002312
+[2022.10.25-09.34.47:400][799]LogLoad: Took 0.624996 seconds to LoadMap(D:\UE5 First Game\UE.First-Game.-Practices\Practice6)
+[2022.10.25-09.35.00:970][408]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.35.01:009][410]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.35.01:029][411]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.35.03:727][541]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.35.03:748][542]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.35.03:769][543]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.35.03:769][543]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.35.03:790][544]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.35.30:209][638]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.35.30:209][638]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.35.30:209][638]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.35.30:209][638]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.35.31:659][706]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.35.31:659][706]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.35.31:659][706]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.35.31:659][706]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.35.32:172][731]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.35.32:172][731]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.35.32:172][731]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.35.32:172][731]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.35.32:689][755]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.35.32:689][755]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.35.32:689][755]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.35.32:689][755]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.35.59:727][953]LogCharacterMovement: BP_AI_Enemy_C_4 is stuck and failed to move! Velocity: X=-412.91 Y=435.32 Z=0.00 Location: X=279.53 Y=444.54 Z=89.96 Normal: X=0.55 Y=-0.84 Z=0.00 PenetrationDepth:0.264 Actor:BP_Player_C_0 Component:CharacterMesh0 BoneName:LeftLeg (0 other events since notify)
+[2022.10.25-09.36.08:579][373]LogScript: Warning: Attempted to access BP_AI_Enemy_C_3 via property EnemyPlayer, but BP_AI_Enemy_C_3 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_4
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.36.08:579][373]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.36.08:579][373]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_4
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.36.08:579][373]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.36.11:786][528]LogBlueprintUserMessages: [BP_FirstAid_C_4] [+] You aren't damaged
+[2022.10.25-09.36.11:805][529]LogBlueprintUserMessages: [BP_FirstAid_C_4] [+] You aren't damaged
+[2022.10.25-09.36.11:843][531]LogBlueprintUserMessages: [BP_FirstAid_C_4] [+] You aren't damaged
+[2022.10.25-09.36.11:977][538]LogBlueprintUserMessages: [BP_FirstAid_C_4] [+] You aren't damaged
+[2022.10.25-09.36.23:878][ 66]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=6.68 Y=53.88 Z=0.00 Location: X=54.52 Y=481.34 Z=90.24 Normal: X=0.90 Y=-0.44 Z=-0.00 PenetrationDepth:31.093 Actor:BP_AI_Enemy_C_8 Component:CharacterMesh0 BoneName:RightUpLeg (0 other events since notify)
+[2022.10.25-09.36.27:032][196]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'CallFunc_GetAllActorsWithTag_OutActors' of length 20 in '/Game/MyAssets/Levels/Practice7.Practice7_C:ExecuteUbergraph_Practice7'!
+[2022.10.25-09.36.27:032][196]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	Practice7_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.Practice7_C_3
+	Function /Game/MyAssets/Levels/Practice7.Practice7_C:ExecuteUbergraph_Practice7:0179
+[2022.10.25-09.36.27:032][196]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Levels/Practice7.Practice7_C:ExecuteUbergraph_Practice7
+
+[2022.10.25-09.36.30:952][356]LogCharacterMovement: BP_AI_Enemy_C_6 is stuck and failed to move! Velocity: X=153.33 Y=-134.24 Z=0.00 Location: X=550.74 Y=868.70 Z=90.19 Normal: X=0.53 Y=0.84 Z=0.11 PenetrationDepth:0.037 Actor:BP_AI_Enemy_C_7 Component:CharacterMesh0 BoneName:RightLeg (0 other events since notify)
+[2022.10.25-09.36.34:067][478]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-104.56 Y=121.97 Z=0.00 Location: X=659.64 Y=721.05 Z=93.55 Normal: X=-0.70 Y=-0.72 Z=0.00 PenetrationDepth:0.159 Actor:BP_AI_Enemy_C_6 Component:CharacterMesh0 BoneName:RightHand (14 other events since notify)
+[2022.10.25-09.36.37:522][629]LogCharacterMovement: BP_AI_Enemy_C_7 is stuck and failed to move! Velocity: X=46.49 Y=36.75 Z=0.00 Location: X=380.68 Y=699.81 Z=90.15 Normal: X=-0.97 Y=0.24 Z=-0.00 PenetrationDepth:3.079 Actor:BP_AI_Enemy_C_8 Component:CharacterMesh0 BoneName:Hips (0 other events since notify)
+[2022.10.25-09.36.41:258][798]LogCharacterMovement: BP_AI_Enemy_C_8 is stuck and failed to move! Velocity: X=-42.60 Y=15.93 Z=0.00 Location: X=453.97 Y=726.76 Z=90.14 Normal: X=-0.30 Y=-0.95 Z=-0.00 PenetrationDepth:5.236 Actor:BP_Player_C_0 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2022.10.25-09.37.00:557][689]LogCharacterMovement: BP_AI_Enemy_C_11 is stuck and failed to move! Velocity: X=96.05 Y=-35.49 Z=0.00 Location: X=-1296.50 Y=426.80 Z=121.95 Normal: X=0.16 Y=0.99 Z=0.00 PenetrationDepth:9.943 Actor:BP_AI_Enemy_C_9 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2022.10.25-09.37.02:387][766]LogCharacterMovement: BP_AI_Enemy_C_10 is stuck and failed to move! Velocity: X=-124.02 Y=91.36 Z=0.00 Location: X=-1240.54 Y=398.12 Z=90.11 Normal: X=0.92 Y=0.38 Z=-0.00 PenetrationDepth:2.812 Actor:BP_AI_Enemy_C_9 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2022.10.25-09.37.03:234][800]LogCharacterMovement: BP_AI_Enemy_C_11 is stuck and failed to move! Velocity: X=28.77 Y=-186.60 Z=0.00 Location: X=-1301.11 Y=434.08 Z=90.15 Normal: X=-0.22 Y=0.98 Z=0.00 PenetrationDepth:5.942 Actor:BP_AI_Enemy_C_9 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2022.10.25-09.37.09:891][ 53]LogCharacterMovement: BP_AI_Enemy_C_9 is stuck and failed to move! Velocity: X=167.66 Y=2.11 Z=0.00 Location: X=-797.71 Y=-1570.46 Z=88.10 Normal: X=-0.63 Y=-0.20 Z=-0.75 PenetrationDepth:1.578 Actor:BP_AI_Enemy_C_10 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2022.10.25-09.37.11:630][120]LogCharacterMovement: BP_AI_Enemy_C_9 is stuck and failed to move! Velocity: X=89.34 Y=-58.76 Z=0.00 Location: X=-795.34 Y=-1574.98 Z=90.15 Normal: X=-0.01 Y=1.00 Z=-0.00 PenetrationDepth:3.327 Actor:BP_AI_Enemy_C_10 Component:CharacterMesh0 BoneName:RightHand (1 other events since notify)
+[2022.10.25-09.37.12:639][159]LogCharacterMovement: BP_AI_Enemy_C_9 is stuck and failed to move! Velocity: X=54.02 Y=-1.27 Z=0.00 Location: X=-791.31 Y=-1583.56 Z=90.15 Normal: X=0.35 Y=0.93 Z=0.05 PenetrationDepth:2.377 Actor:BP_AI_Enemy_C_10 Component:CharacterMesh0 BoneName:RightFoot (1 other events since notify)
+[2022.10.25-09.37.35:757][976]LogCharacterMovement: BP_AI_Enemy_C_12 is stuck and failed to move! Velocity: X=-175.35 Y=-68.80 Z=0.00 Location: X=-1173.07 Y=461.85 Z=90.15 Normal: X=-0.70 Y=0.71 Z=-0.00 PenetrationDepth:0.112 Actor:BP_AI_Enemy_C_14 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2022.10.25-09.37.36:867][996]LogCharacterMovement: BP_AI_Enemy_C_12 is stuck and failed to move! Velocity: X=-217.15 Y=-84.08 Z=0.00 Location: X=-1173.10 Y=461.90 Z=90.15 Normal: X=-0.43 Y=0.90 Z=0.00 PenetrationDepth:0.032 Actor:BP_AI_Enemy_C_14 Component:CharacterMesh0 BoneName:RightArm (17 other events since notify)
+[2022.10.25-09.37.37:889][ 14]LogCharacterMovement: BP_AI_Enemy_C_12 is stuck and failed to move! Velocity: X=-560.41 Y=-214.33 Z=0.00 Location: X=-1173.13 Y=461.32 Z=90.15 Normal: X=-0.44 Y=0.90 Z=0.00 PenetrationDepth:0.298 Actor:BP_AI_Enemy_C_14 Component:CharacterMesh0 BoneName:RightArm (10 other events since notify)
+[2022.10.25-09.37.38:650][ 33]LogAssetRegistry: Warning: GetFirstPackageByName is being called in `-game` to resolve partial package name. This may cause a slow scan on disk. Consider using the fully qualified package name for better performance. 
+[2022.10.25-09.37.38:662][ 33]LogPackageName: SearchForPackageOnDisk took   0.012s to resolve D:\UE5 First Game\UE.First-Game.-Practices\Practice6.
+[2022.10.25-09.37.38:663][ 33]LogNet: Browse: D:\UE5 First Game\UE.First-Game.-Practices\Practice6
+[2022.10.25-09.37.38:663][ 33]LogLoad: LoadMap: D:\UE5 First Game\UE.First-Game.-Practices\Practice6
+[2022.10.25-09.37.38:663][ 33]LogWorld: BeginTearingDown for /Game/MyAssets/Levels/Practice7
+[2022.10.25-09.37.38:664][ 33]LogWorld: UWorld::CleanupWorld for Practice7, bSessionEnded=true, bCleanupResources=true
+[2022.10.25-09.37.38:665][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.25-09.37.38:710][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.25-09.37.38:727][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.25-09.37.38:745][ 33]LogPackageName: SearchForPackageOnDisk took   0.013s to resolve /Game/MyAssets/Levels/Practice6.
+[2022.10.25-09.37.39:206][ 33]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule should be resaved to improve async compilation performance.
+[2022.10.25-09.37.39:247][ 33]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 should be resaved to improve async compilation performance.
+[2022.10.25-09.37.39:297][ 33]LogAudio: Display: Audio Device (ID: 1) registered with world 'Practice7'.
+[2022.10.25-09.37.39:298][ 33]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.25-09.37.39:298][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.25-09.37.39:298][ 33]LogAIModule: Creating AISystem for world Practice7
+[2022.10.25-09.37.39:298][ 33]LogLoad: Game class is 'BP_GameMode_C'
+[2022.10.25-09.37.39:301][ 33]LogWorld: Bringing World /Game/MyAssets/Levels/Practice7.Practice7 up for play (max tick rate 0) at 2022.10.25-12.37.39
+[2022.10.25-09.37.39:302][ 33]LogWorld: Bringing up level for play took: 0.002276
+[2022.10.25-09.37.39:303][ 33]LogLoad: Took 0.641317 seconds to LoadMap(D:\UE5 First Game\UE.First-Game.-Practices\Practice6)
+[2022.10.25-09.38.03:579][102]LogCharacterMovement: BP_AI_Enemy_C_1 is stuck and failed to move! Velocity: X=175.45 Y=9.53 Z=0.00 Location: X=332.53 Y=417.54 Z=93.67 Normal: X=-0.78 Y=-0.28 Z=0.56 PenetrationDepth:2.934 Actor:BP_AI_Enemy_C_2 Component:CharacterMesh0 BoneName:LeftFoot (0 other events since notify)
+[2022.10.25-09.38.05:748][192]LogCharacterMovement: BP_AI_Enemy_C_1 is stuck and failed to move! Velocity: X=29.41 Y=42.70 Z=0.00 Location: X=409.31 Y=377.04 Z=88.23 Normal: X=-0.64 Y=-0.19 Z=-0.74 PenetrationDepth:0.313 Actor:BP_AI_Enemy_C_2 Component:CharacterMesh0 BoneName:RightArm (1 other events since notify)
+[2022.10.25-09.38.13:666][525]LogAssetRegistry: Warning: GetFirstPackageByName is being called in `-game` to resolve partial package name. This may cause a slow scan on disk. Consider using the fully qualified package name for better performance. 
+[2022.10.25-09.38.13:678][525]LogPackageName: SearchForPackageOnDisk took   0.013s to resolve D:\UE5 First Game\UE.First-Game.-Practices\Practice6.
+[2022.10.25-09.38.13:678][525]LogNet: Browse: D:\UE5 First Game\UE.First-Game.-Practices\Practice6
+[2022.10.25-09.38.13:678][525]LogLoad: LoadMap: D:\UE5 First Game\UE.First-Game.-Practices\Practice6
+[2022.10.25-09.38.13:678][525]LogWorld: BeginTearingDown for /Game/MyAssets/Levels/Practice7
+[2022.10.25-09.38.13:679][525]LogWorld: UWorld::CleanupWorld for Practice7, bSessionEnded=true, bCleanupResources=true
+[2022.10.25-09.38.13:679][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.25-09.38.13:709][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.25-09.38.13:723][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.10.25-09.38.13:739][525]LogPackageName: SearchForPackageOnDisk took   0.012s to resolve /Game/MyAssets/Levels/Practice6.
+[2022.10.25-09.38.14:209][525]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule should be resaved to improve async compilation performance.
+[2022.10.25-09.38.14:250][525]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 should be resaved to improve async compilation performance.
+[2022.10.25-09.38.14:301][525]LogAudio: Display: Audio Device (ID: 1) registered with world 'Practice7'.
+[2022.10.25-09.38.14:301][525]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.25-09.38.14:301][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.25-09.38.14:301][525]LogAIModule: Creating AISystem for world Practice7
+[2022.10.25-09.38.14:301][525]LogLoad: Game class is 'BP_GameMode_C'
+[2022.10.25-09.38.14:305][525]LogWorld: Bringing World /Game/MyAssets/Levels/Practice7.Practice7 up for play (max tick rate 0) at 2022.10.25-12.38.14
+[2022.10.25-09.38.14:305][525]LogWorld: Bringing up level for play took: 0.002477
+[2022.10.25-09.38.14:308][525]LogLoad: Took 0.629443 seconds to LoadMap(D:\UE5 First Game\UE.First-Game.-Practices\Practice6)
+[2022.10.25-09.38.34:867][474]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-41.17 Y=-29.05 Z=0.00 Location: X=-368.20 Y=1726.16 Z=90.15 Normal: X=0.58 Y=-0.82 Z=-0.00 PenetrationDepth:30.378 Actor:BP_AI_Enemy_C_0 Component:CharacterMesh0 BoneName:RightUpLeg (0 other events since notify)
+[2022.10.25-09.38.45:796][909]LogCharacterMovement: BP_AI_Enemy_C_1 is stuck and failed to move! Velocity: X=-466.54 Y=377.28 Z=0.00 Location: X=-1086.27 Y=806.33 Z=88.07 Normal: X=0.51 Y=-0.50 Z=-0.70 PenetrationDepth:12.249 Actor:BP_AI_Enemy_C_2 Component:CharacterMesh0 BoneName:RightArm (0 other events since notify)
+[2022.10.25-09.38.47:006][959]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.38.47:006][959]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.47:006][959]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.38.47:006][959]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.47:399][977]LogCharacterMovement: BP_AI_Enemy_C_2 is stuck and failed to move! Velocity: X=389.02 Y=-456.80 Z=0.00 Location: X=-1102.90 Y=787.58 Z=89.90 Normal: X=-0.64 Y=0.76 Z=0.00 PenetrationDepth:6.639 Actor:BP_Player_C_0 Component:CharacterMesh0 BoneName:LeftHand (0 other events since notify)
+[2022.10.25-09.38.47:511][982]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.38.47:511][982]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.47:511][982]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.38.47:511][982]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.47:777][994]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.38.47:777][994]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.47:777][994]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.38.47:777][994]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.48:280][ 16]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.38.48:280][ 16]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.48:280][ 16]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_1
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.38.48:280][ 16]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.49:580][ 71]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.38.49:580][ 71]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.49:580][ 71]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.38.49:580][ 71]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.50:082][ 92]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.38.50:082][ 92]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.50:082][ 92]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.38.50:082][ 92]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.50:591][114]LogScript: Warning: Attempted to access BP_AI_Enemy_C_0 via property EnemyPlayer, but BP_AI_Enemy_C_0 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.38.50:591][114]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.38.50:592][114]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_2
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.38.50:592][114]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.09:648][608]LogScript: Warning: Attempted to access BP_AI_Enemy_C_6 via property EnemyPlayer, but BP_AI_Enemy_C_6 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.40.09:648][608]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.09:648][608]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.40.09:648][608]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.10:152][625]LogScript: Warning: Attempted to access BP_AI_Enemy_C_6 via property EnemyPlayer, but BP_AI_Enemy_C_6 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.40.10:152][625]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.10:152][625]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.40.10:152][625]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.10:666][643]LogScript: Warning: Attempted to access BP_AI_Enemy_C_6 via property EnemyPlayer, but BP_AI_Enemy_C_6 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.40.10:666][643]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.10:666][643]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.40.10:666][643]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.11:181][661]LogScript: Warning: Attempted to access BP_AI_Enemy_C_6 via property EnemyPlayer, but BP_AI_Enemy_C_6 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.40.11:181][661]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.11:181][661]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.40.11:181][661]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.11:690][679]LogScript: Warning: Attempted to access BP_AI_Enemy_C_6 via property EnemyPlayer, but BP_AI_Enemy_C_6 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.40.11:690][679]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.11:690][679]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.40.11:690][679]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.12:193][697]LogScript: Warning: Attempted to access BP_AI_Enemy_C_6 via property EnemyPlayer, but BP_AI_Enemy_C_6 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.40.12:193][697]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.12:193][697]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.40.12:193][697]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.12:710][716]LogScript: Warning: Attempted to access BP_AI_Enemy_C_6 via property EnemyPlayer, but BP_AI_Enemy_C_6 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.40.12:710][716]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.12:710][716]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.40.12:710][716]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.13:225][735]LogScript: Warning: Attempted to access BP_AI_Enemy_C_6 via property EnemyPlayer, but BP_AI_Enemy_C_6 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.40.13:225][735]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.13:225][735]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_8
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.40.13:225][735]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.40.37:246][543]LogCharacterMovement: BP_AI_Enemy_C_9 is stuck and failed to move! Velocity: X=-46.25 Y=58.86 Z=0.00 Location: X=1638.91 Y=-1245.70 Z=90.15 Normal: X=0.53 Y=-0.85 Z=-0.00 PenetrationDepth:13.661 Actor:BP_AI_Enemy_C_11 Component:CharacterMesh0 BoneName:LeftArm (0 other events since notify)
+[2022.10.25-09.40.58:080][ 31]LogAssetRegistry: Warning: GetFirstPackageByName is being called in `-game` to resolve partial package name. This may cause a slow scan on disk. Consider using the fully qualified package name for better performance. 
+[2022.10.25-09.40.58:092][ 31]LogPackageName: SearchForPackageOnDisk took   0.012s to resolve D:\UE5 First Game\UE.First-Game.-Practices\Practice6.
+[2022.10.25-09.40.58:093][ 31]LogNet: Browse: D:\UE5 First Game\UE.First-Game.-Practices\Practice6
+[2022.10.25-09.40.58:093][ 31]LogLoad: LoadMap: D:\UE5 First Game\UE.First-Game.-Practices\Practice6
+[2022.10.25-09.40.58:093][ 31]LogWorld: BeginTearingDown for /Game/MyAssets/Levels/Practice7
+[2022.10.25-09.40.58:094][ 31]LogWorld: UWorld::CleanupWorld for Practice7, bSessionEnded=true, bCleanupResources=true
+[2022.10.25-09.40.58:095][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.25-09.40.58:129][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.25-09.40.58:170][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.10.25-09.40.58:186][ 31]LogPackageName: SearchForPackageOnDisk took   0.012s to resolve /Game/MyAssets/Levels/Practice6.
+[2022.10.25-09.40.58:632][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_NarrowCapsule.Shape_NarrowCapsule should be resaved to improve async compilation performance.
+[2022.10.25-09.40.58:671][ 31]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Pillar_50x500.Pillar_50x500 should be resaved to improve async compilation performance.
+[2022.10.25-09.40.58:718][ 31]LogAudio: Display: Audio Device (ID: 1) registered with world 'Practice7'.
+[2022.10.25-09.40.58:719][ 31]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.25-09.40.58:719][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.25-09.40.58:719][ 31]LogAIModule: Creating AISystem for world Practice7
+[2022.10.25-09.40.58:719][ 31]LogLoad: Game class is 'BP_GameMode_C'
+[2022.10.25-09.40.58:723][ 31]LogWorld: Bringing World /Game/MyAssets/Levels/Practice7.Practice7 up for play (max tick rate 0) at 2022.10.25-12.40.58
+[2022.10.25-09.40.58:723][ 31]LogWorld: Bringing up level for play took: 0.002280
+[2022.10.25-09.40.58:725][ 31]LogLoad: Took 0.632461 seconds to LoadMap(D:\UE5 First Game\UE.First-Game.-Practices\Practice6)
+[2022.10.25-09.41.03:473][228]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.03:520][230]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.03:618][234]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.03:784][241]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.03:832][243]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.03:858][244]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.03:881][245]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.03:906][246]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.03:931][247]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.07:957][434]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.07:977][435]LogBlueprintUserMessages: [BP_FirstAid_C_1] [+] You aren't damaged
+[2022.10.25-09.41.59:373][790]LogCharacterMovement: BP_Player_C_0 is stuck and failed to move! Velocity: X=-48.42 Y=-6.74 Z=0.00 Location: X=1143.91 Y=-302.92 Z=90.15 Normal: X=0.07 Y=-1.00 Z=-0.00 PenetrationDepth:29.609 Actor:BP_AI_Enemy_C_3 Component:CharacterMesh0 BoneName:RightUpLeg (0 other events since notify)
+[2022.10.25-09.41.59:421][792]LogCharacterMovement: BP_AI_Enemy_C_3 is stuck and failed to move! Velocity: X=30.23 Y=38.37 Z=0.00 Location: X=1058.88 Y=-326.12 Z=90.15 Normal: X=-1.00 Y=0.00 Z=0.00 PenetrationDepth:18.819 Actor:BP_Player_C_0 Component:CharacterMesh0 BoneName:Hips (0 other events since notify)
+[2022.10.25-09.42.08:761][169]LogCharacterMovement: BP_AI_Enemy_C_3 is stuck and failed to move! Velocity: X=89.08 Y=-53.46 Z=0.00 Location: X=-703.80 Y=-1606.83 Z=90.15 Normal: X=-0.80 Y=0.60 Z=-0.00 PenetrationDepth:16.050 Actor:BP_AI_Enemy_C_4 Component:CharacterMesh0 BoneName:RightHand (0 other events since notify)
+[2022.10.25-09.42.09:765][211]LogCharacterMovement: BP_AI_Enemy_C_3 is stuck and failed to move! Velocity: X=-104.87 Y=-312.61 Z=0.00 Location: X=-613.05 Y=-1611.41 Z=90.15 Normal: X=0.73 Y=0.68 Z=-0.00 PenetrationDepth:5.528 Actor:BP_AI_Enemy_C_4 Component:CharacterMesh0 BoneName:RightArm (6 other events since notify)
+[2022.10.25-09.42.10:791][257]LogCharacterMovement: BP_AI_Enemy_C_4 is stuck and failed to move! Velocity: X=-239.94 Y=396.08 Z=0.00 Location: X=-659.03 Y=-1700.62 Z=94.81 Normal: X=0.75 Y=-0.24 Z=0.62 PenetrationDepth:9.508 Actor:BP_AI_Enemy_C_3 Component:CharacterMesh0 BoneName:LeftFoot (0 other events since notify)
+[2022.10.25-09.42.21:280][752]LogScript: Warning: Attempted to access BP_AI_Enemy_C_3 via property EnemyPlayer, but BP_AI_Enemy_C_3 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_5
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.42.21:280][752]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.42.21:280][752]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_5
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.42.21:280][752]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.42.21:794][778]LogScript: Warning: Attempted to access BP_AI_Enemy_C_3 via property EnemyPlayer, but BP_AI_Enemy_C_3 is not valid (pending kill or garbage)
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_5
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00D5
+[2022.10.25-09.42.21:794][778]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.42.21:794][778]LogScript: Warning: Accessed None
+	AI_EnemyController_C /Game/MyAssets/Levels/Practice7.Practice7:PersistentLevel.AI_EnemyController_C_5
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController:00EA
+[2022.10.25-09.42.21:794][778]LogScript: Warning: Script call stack:
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:BndEvt__AI_EnemyController_PawnSensing_K2Node_ComponentBoundEvent_0_SeePawnDelegate__DelegateSignature
+	Function /Game/MyAssets/Blueprints/Enemy/AI_EnemyController.AI_EnemyController_C:ExecuteUbergraph_AI_EnemyController
+
+[2022.10.25-09.42.29:433][ 24]LogSlate: Window 'Practice7 (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.10.25-09.42.29:437][ 25]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.25-09.42.29:438][ 25]LogEngine: All Windows Closed
+[2022.10.25-09.42.29:438][ 25]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.10.25-09.42.29:438][ 25]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.10.25-09.42.29:438][ 25]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.10.25-09.42.29:438][ 26]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.10.25-09.42.29:438][ 26]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.10.25-09.42.29:438][ 26]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.10.25-09.42.29:438][ 26]LogInit: Display: PreExit Game.
+[2022.10.25-09.42.29:449][ 26]LogWorld: BeginTearingDown for /Game/MyAssets/Levels/Practice7
+[2022.10.25-09.42.29:450][ 26]LogWorld: UWorld::CleanupWorld for Practice7, bSessionEnded=true, bCleanupResources=true
+[2022.10.25-09.42.29:450][ 26]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.25-09.42.30:087][ 26]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.10.25-09.42.30:087][ 26]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.10.25-09.42.30:087][ 26]LogAudio: Display: Audio Device unregistered from world 'Practice7'.
+[2022.10.25-09.42.30:087][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.10.25-09.42.30:088][ 26]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.10.25-09.42.30:093][ 26]LogAudio: Display: Audio Device Manager Shutdown
+[2022.10.25-09.42.30:096][ 26]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.10.25-09.42.30:096][ 26]LogExit: Preparing to exit.
+[2022.10.25-09.42.30:104][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.25-09.42.30:105][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.25-09.42.30:135][ 26]LogMoviePlayer: Shutting down movie player
+[2022.10.25-09.42.30:588][ 26]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.10.25-09.42.30:596][ 26]LogExit: Game engine shut down
+[2022.10.25-09.42.30:665][ 26]LogExit: Object subsystem successfully closed.
+[2022.10.25-09.42.30:670][ 26]LogShaderCompilers: Display: ================================================
+[2022.10.25-09.42.30:670][ 26]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.25-09.42.30:670][ 26]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.25-09.42.30:670][ 26]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.25-09.42.30:670][ 26]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 2048.00 MB (2.00 GB) budget. Usage: 0.00%
+[2022.10.25-09.42.30:670][ 26]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.25-09.42.30:670][ 26]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.25-09.42.30:670][ 26]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.25-09.42.30:670][ 26]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.25-09.42.30:670][ 26]LogShaderCompilers: Display: ================================================
+[2022.10.25-09.42.30:734][ 26]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.10.25-09.42.30:752][ 26]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (530)
+[2022.10.25-09.42.30:752][ 26]LogModuleManager: Shutting down and abandoning module SequenceRecorder (528)
+[2022.10.25-09.42.30:752][ 26]LogModuleManager: Shutting down and abandoning module AutomationController (526)
+[2022.10.25-09.42.30:752][ 26]LogModuleManager: Shutting down and abandoning module AutomationWorker (524)
+[2022.10.25-09.42.30:752][ 26]LogModuleManager: Shutting down and abandoning module Voice (522)
+[2022.10.25-09.42.30:752][ 26]LogModuleManager: Shutting down and abandoning module AIModule (520)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module GameplayDebugger (519)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module AITestSuite (517)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module NavigationSystem (515)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module AnimGraph (512)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (510)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (508)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module WebMMedia (506)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (504)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (502)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (500)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module PlanarCut (498)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module CharacterAI (496)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module SessionServices (494)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (492)
+[2022.10.25-09.42.30:753][ 26]LogModuleManager: Shutting down and abandoning module LiveCoding (490)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (488)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module MovieScene (486)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (484)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module PortalServices (482)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module PortalRpc (480)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module MessagingRpc (478)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (476)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module AudioMixer (475)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module AudioMixerCore (474)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (470)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module TypedElementFramework (468)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (466)
+[2022.10.25-09.42.30:755][ 26]LogModuleManager: Shutting down and abandoning module ProfilerService (464)
+[2022.10.25-09.42.30:777][ 26]LogModuleManager: Shutting down and abandoning module TaskGraph (462)
+[2022.10.25-09.42.30:777][ 26]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (460)
+[2022.10.25-09.42.30:777][ 26]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (458)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module InterchangePipelines (456)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module InterchangeExport (454)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module InterchangeMessages (452)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module InterchangeImport (450)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module InterchangeNodes (448)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module Synthesis (446)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module ResonanceAudio (444)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (442)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module ModelingOperators (438)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module ModelingComponents (436)
+[2022.10.25-09.42.30:778][ 26]LogModuleManager: Shutting down and abandoning module MeshModelingTools (434)
+[2022.10.25-09.42.30:779][ 26]LogModuleManager: Shutting down and abandoning module GooglePAD (432)
+[2022.10.25-09.42.30:779][ 26]LogModuleManager: Shutting down and abandoning module DynamicMesh (430)
+[2022.10.25-09.42.30:779][ 26]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (428)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (426)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (425)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module GeometryCache (422)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (421)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (418)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module CableComponent (416)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module AudioCapture (414)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (413)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module AssetTags (410)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (408)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (406)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module AppleImageUtils (404)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module AndroidPermission (402)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (400)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module TemplateSequence (396)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module SequencerScripting (394)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module MediaCompositing (392)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module ImgMedia (390)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (388)
+[2022.10.25-09.42.30:780][ 26]LogOpenImageDenoise: OIDN shutting down
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (386)
+[2022.10.25-09.42.30:780][ 26]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (384)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (382)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (380)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (379)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module ChaosNiagara (376)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module NiagaraFluids (374)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (368)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (366)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module HotReload (365)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module UObjectPlugin (362)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (360)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (358)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (356)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module ControlRigSpline (354)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (352)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module SoundFields (350)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module SignificanceManager (348)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (346)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (344)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (342)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (340)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (339)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (336)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module ActorSequence (334)
+[2022.10.25-09.42.30:781][ 26]LogModuleManager: Shutting down and abandoning module UdpMessaging (332)
+[2022.10.25-09.42.30:882][ 26]LogModuleManager: Shutting down and abandoning module TcpMessaging (330)
+[2022.10.25-09.42.30:983][ 26]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (328)
+[2022.10.25-09.42.30:983][ 26]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (326)
+[2022.10.25-09.42.30:983][ 26]LogModuleManager: Shutting down and abandoning module PBIK (324)
+[2022.10.25-09.42.30:983][ 26]LogModuleManager: Shutting down and abandoning module FullBodyIK (322)
+[2022.10.25-09.42.30:983][ 26]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2022.10.25-09.42.30:983][ 26]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2022.10.25-09.42.30:985][ 26]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2022.10.25-09.42.30:985][ 26]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2022.10.25-09.42.30:985][ 26]LogModuleManager: Shutting down and abandoning module ContentBrowser (314)
+[2022.10.25-09.42.30:985][ 26]LogModuleManager: Shutting down and abandoning module ToolMenus (313)
+[2022.10.25-09.42.30:985][ 26]LogModuleManager: Shutting down and abandoning module CollectionManager (311)
+[2022.10.25-09.42.30:985][ 26]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (310)
+[2022.10.25-09.42.30:985][ 26]LogModuleManager: Shutting down and abandoning module ContentBrowserData (307)
+[2022.10.25-09.42.30:985][ 26]LogModuleManager: Shutting down and abandoning module NiagaraCore (302)
+[2022.10.25-09.42.30:985][ 26]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (300)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module FacialAnimation (298)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (296)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module TreeMap (295)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (292)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module AnimationSharing (290)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module GameplayCameras (288)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module Paper2D (286)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (284)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module IKRig (282)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (280)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module ControlRig (278)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module LevelSequence (277)
+[2022.10.25-09.42.30:986][ 26]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (274)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (272)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (270)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module AndroidFileServer (268)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (266)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module PacketHandler (264)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module AnimationDataController (262)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (260)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (258)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module MediaAssets (256)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module Overlay (254)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module OverlayEditor (253)
+[2022.10.25-09.42.30:987][ 26]LogModuleManager: Shutting down and abandoning module VREditor (250)
+[2022.10.25-09.42.30:988][ 26]LogModuleManager: Shutting down and abandoning module StringTableEditor (248)
+[2022.10.25-09.42.30:988][ 26]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (246)
+[2022.10.25-09.42.30:988][ 26]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (244)
+[2022.10.25-09.42.30:989][ 26]LogModuleManager: Shutting down and abandoning module FunctionalTesting (242)
+[2022.10.25-09.42.30:989][ 26]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (240)
+[2022.10.25-09.42.30:989][ 26]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (239)
+[2022.10.25-09.42.30:989][ 26]LogModuleManager: Shutting down and abandoning module UMG (236)
+[2022.10.25-09.42.30:989][ 26]LogModuleManager: Shutting down and abandoning module UMGEditor (235)
+[2022.10.25-09.42.30:989][ 26]LogModuleManager: Shutting down and abandoning module Sequencer (234)
+[2022.10.25-09.42.30:990][ 26]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2022.10.25-09.42.30:991][ 26]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2022.10.25-09.42.30:991][ 26]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2022.10.25-09.42.30:992][ 26]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (222)
+[2022.10.25-09.42.30:992][ 26]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2022.10.25-09.42.30:992][ 26]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2022.10.25-09.42.30:992][ 26]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2022.10.25-09.42.30:992][ 26]LogModuleManager: Shutting down and abandoning module Messaging (214)
+[2022.10.25-09.42.30:992][ 26]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (212)
+[2022.10.25-09.42.30:992][ 26]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (210)
+[2022.10.25-09.42.30:992][ 26]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2022.10.25-09.42.30:992][ 26]LogModuleManager: Shutting down and abandoning module Core (206)
+[2022.10.25-09.42.30:992][ 26]LogModuleManager: Shutting down and abandoning module MaterialEditor (204)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module MovieSceneTools (202)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module EditorStyle (201)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module MeshBuilder (196)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module NaniteBuilder (194)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module MeshUtilities (192)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (191)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (190)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (189)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (187)
+[2022.10.25-09.42.30:993][ 26]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (185)
+[2022.10.25-09.42.30:996][ 26]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (183)
+[2022.10.25-09.42.30:996][ 26]LogModuleManager: Shutting down and abandoning module MaterialBaking (179)
+[2022.10.25-09.42.30:996][ 26]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (174)
+[2022.10.25-09.42.30:996][ 26]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (172)
+[2022.10.25-09.42.30:996][ 26]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (170)
+[2022.10.25-09.42.30:997][ 26]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (168)
+[2022.10.25-09.42.30:997][ 26]LogModuleManager: Shutting down and abandoning module DerivedDataCache (166)
+[2022.10.25-09.42.30:999][ 26]LogModuleManager: Shutting down and abandoning module TargetPlatform (164)
+[2022.10.25-09.42.30:999][ 26]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (163)
+[2022.10.25-09.42.30:999][ 26]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (161)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (159)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module AudioFormatBink (157)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (155)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (153)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (151)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (149)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module TextureFormat (147)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (146)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (144)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (142)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (140)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (138)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (136)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module ImageWrapper (135)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module TurnkeySupport (131)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module InputCore (128)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module Settings (126)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (124)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (123)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module GeometryCore (119)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2022.10.25-09.42.31:000][ 26]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module D3D12RHI (110)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (108)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (106)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (104)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module HairStrandsCore (102)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (100)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module ChunkDownloader (98)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (92)
+[2022.10.25-09.42.31:001][ 26]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.10.25-09.42.31:002][ 26]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.10.25-09.42.31:003][ 26]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.10.25-09.42.31:027][ 26]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.10.25-09.42.31:027][ 26]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2022.10.25-09.42.31:051][ 26]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.10.25-09.42.31:051][ 26]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.10.25-09.42.31:053][ 26]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module ChaosCloth (70)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.10.25-09.42.31:055][ 26]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.10.25-09.42.31:056][ 26]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.10.25-09.42.31:056][ 26]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.10.25-09.42.31:056][ 26]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.10.25-09.42.31:056][ 26]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.10.25-09.42.31:056][ 26]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.10.25-09.42.31:057][ 26]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.10.25-09.42.31:057][ 26]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.10.25-09.42.31:057][ 26]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.10.25-09.42.31:057][ 26]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.10.25-09.42.31:058][ 26]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.10.25-09.42.31:058][ 26]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.10.25-09.42.31:058][ 26]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.10.25-09.42.31:058][ 26]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.10.25-09.42.31:058][ 26]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.10.25-09.42.31:058][ 26]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.10.25-09.42.31:058][ 26]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.10.25-09.42.31:058][ 26]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.10.25-09.42.31:059][ 26]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.10.25-09.42.31:059][ 26]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.10.25-09.42.31:059][ 26]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.10.25-09.42.31:059][ 26]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.10.25-09.42.31:059][ 26]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.10.25-09.42.31:077][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: 144 items to release
+[2022.10.25-09.42.31:077][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.InstanceIdsBuffer", 76 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:077][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 1920 x 1009 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.10.25-09.42.31:077][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 1920 x 1009 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.10.25-09.42.31:077][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 1920 x 1009 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.10.25-09.42.31:099][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_0", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.10.25-09.42.31:099][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_0", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.10.25-09.42.31:099][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition_1", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2022.10.25-09.42.31:099][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity_1", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.10.25-09.42.31:099][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.10.25-09.42.31:099][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.10.25-09.42.31:099][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.10.25-09.42.31:100][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.10.25-09.42.31:100][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.10.25-09.42.31:100][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Scene view state exposure readback", 16 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.10.25-09.42.31:100][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:100][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.10.25-09.42.31:100][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.10.25-09.42.31:100][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.10.25-09.42.31:100][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.10.25-09.42.31:100][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.10.25-09.42.31:101][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2022.10.25-09.42.31:101][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 30 x 5 x 5, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:101][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2022.10.25-09.42.31:101][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.10.25-09.42.31:101][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "PrimitiveSceneDataTexture", 40 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.10.25-09.42.31:101][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.10.25-09.42.31:101][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.SkyViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:101][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:102][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:102][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1920 x 1012 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:102][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1920 x 1012 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:102][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1920 x 1012 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.10.25-09.42.31:102][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1920 x 1012 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2022.10.25-09.42.31:102][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1920 x 1012 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:102][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1920 x 1012 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:102][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1920 x 1012 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.10.25-09.42.31:102][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1920 x 1012 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:102][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 60 x 32 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:103][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 60 x 32 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:103][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 960 x 768 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:103][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.10.25-09.42.31:103][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.10.25-09.42.31:103][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 120 x 96 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.10.25-09.42.31:103][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 120 x 96 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.10.25-09.42.31:103][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.10.25-09.42.31:103][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1920 x 1012 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:103][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricFog.LightScattering", 240 x 127 x 128, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.10.25-09.42.31:103][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1920 x 1012 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.10.25-09.42.31:105][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1920 x 1012 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:105][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1920 x 1012 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:105][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1920 x 1012 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:106][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.PhysicalPagePool", 16384 x 4096 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.10.25-09.42.31:128][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.TransmittanceLut", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:128][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.MultiScatteredLuminanceLut", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:129][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.DistantSkyLightLut", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:129][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.CameraAPVolume0", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:129][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFields.DistanceFieldBrickTexture", 1024 x 1024 x 8, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:129][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageAtlas", 512 x 512 x 256, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:129][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldCoverageAtlas", 256 x 256 x 128, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:130][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistanceFieldPageTableCombined", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.10.25-09.42.31:130][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalSDFMipTexture", 56 x 56 x 224, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:130][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableStationaryLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.10.25-09.42.31:130][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "GlobalDistanceFieldPageTableMovableLayer", 16 x 16 x 64, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.10.25-09.42.31:130][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneAlbedo", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2022.10.25-09.42.31:130][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneOpacity", 4096 x 4096 x 1, Mips: 1, Format: 0x50, Flags: 0x0
+[2022.10.25-09.42.31:130][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDepth", 4096 x 4096 x 1, Mips: 1, Format: 0x23, Flags: 0x1
+[2022.10.25-09.42.31:130][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNormal", 4096 x 4096 x 1, Mips: 1, Format: 0x53, Flags: 0x0
+[2022.10.25-09.42.31:131][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneEmissive", 4096 x 4096 x 1, Mips: 1, Format: 0x5F, Flags: 0x0
+[2022.10.25-09.42.31:131][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneDirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.10.25-09.42.31:135][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneIndirectLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.10.25-09.42.31:135][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneNumFramesAccumulatedAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2022.10.25-09.42.31:137][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.SceneFinalLighting", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x5
+[2022.10.25-09.42.31:141][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapCamera360APLut", 32 x 32 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:142][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyAtmosphere.RealTimeSkyCapViewLut", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:142][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget0", 256 x 256 x 6, Mips: 9, Format: 0x1A, Flags: 0x5
+[2022.10.25-09.42.31:142][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.CapturedSkyRenderTarget", 256 x 256 x 6, Mips: 9, Format: 0x1A, Flags: 0x5
+[2022.10.25-09.42.31:142][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SkyLight.ConvolvedSkyRenderTarget1", 256 x 256 x 6, Mips: 9, Format: 0x1A, Flags: 0x5
+[2022.10.25-09.42.31:142][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelLighting", 64 x 256 x 384, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:148][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 1024 x 1024 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.10.25-09.42.31:148][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 1024 x 1024 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:148][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 2048 x 2048 x 1, Mips: 3, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:149][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.LowFrequencies", 1920 x 1012 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:149][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "OctahedralSolidAngleTexture", 16 x 16 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.10.25-09.42.31:150][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricFog.LightScattering", 240 x 127 x 128, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.10.25-09.42.31:153][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.DepthProbeAtlasTexture", 4096 x 4096 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.10.25-09.42.31:153][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeAtlasTextureSource", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:155][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FinalRadianceAtlas", 4352 x 4352 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:157][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition", 120 x 96 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2022.10.25-09.42.31:157][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeSceneDepth", 120 x 96 x 1, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.10.25-09.42.31:158][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.Output", 1920 x 1012 x 1, Mips: 2, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:158][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.10.25-09.42.31:158][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.10.25-09.42.31:158][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance", 960 x 768 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:158][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 192 x 48 x 48, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.10.25-09.42.31:158][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.DepthHistory", 1920 x 1012 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2022.10.25-09.42.31:159][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 60 x 32 x 26, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:160][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.TranslucencyVolume.SHLightingNewHistory0", 60 x 32 x 26, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:160][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceProbeIndirectionTexture", 72 x 24 x 24, Mips: 1, Format: 0x2A, Flags: 0x4
+[2022.10.25-09.42.31:160][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightShaft.TemporalAA", 960 x 506 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:160][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 960 x 505 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.10.25-09.42.31:160][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 960 x 505 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.10.25-09.42.31:160][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.NumHistoryFramesAccumulated", 1920 x 1012 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:160][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.FastUpdateMode", 1920 x 1012 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:160][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.SpecularIndirect", 1920 x 1012 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:161][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.TraceRadianceAtlas", 4096 x 4096 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:161][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHRedAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:161][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHGreenAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:161][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Radiosity.ProbeSHBlueAtlas", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:161][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Tracing", 480 x 253 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.10.25-09.42.31:162][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.TracingDepth", 480 x 253 x 1, Mips: 1, Format: 0x22, Flags: 0x5
+[2022.10.25-09.42.31:162][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.Reconstruct", 960 x 505 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2022.10.25-09.42.31:162][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.DiffuseIndirect", 1920 x 1012 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:163][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2022.10.25-09.42.31:163][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricRenderTarget.ReconstructDepth", 960 x 505 x 1, Mips: 1, Format: 0x22, Flags: 0x1
+[2022.10.25-09.42.31:163][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 1920 x 1012 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2022.10.25-09.42.31:164][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Dummy", 1 x 1 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.10.25-09.42.31:164][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "GBufferA", 1920 x 1012 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2022.10.25-09.42.31:165][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.ScreenProbeGather.RoughSpecularIndirect", 1920 x 1012 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:165][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.NumHistoryFramesAccumulated", 1920 x 1012 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:166][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.AccumulatedResolveVariance", 1920 x 1012 x 1, Mips: 1, Format: 0x36, Flags: 0x4
+[2022.10.25-09.42.31:166][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.HighFrequencies", 1920 x 1012 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:166][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Metadata", 1920 x 1012 x 1, Mips: 1, Format: 0x31, Flags: 0x4
+[2022.10.25-09.42.31:166][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.SubpixelInfo", 1920 x 1012 x 1, Mips: 1, Format: 0x39, Flags: 0x4
+[2022.10.25-09.42.31:166][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.Translucency", 1920 x 1012 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2022.10.25-09.42.31:166][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "TSR.History.TranslucencyAlpha", 1920 x 1012 x 1, Mips: 1, Format: 0x3D, Flags: 0x4
+[2022.10.25-09.42.31:167][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT0", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2022.10.25-09.42.31:167][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Hair.LUT(DualScattering)", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2022.10.25-09.42.31:167][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.VoxelVisBuffer", 25165824 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:167][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.ProcessGPUInstanceInvalidationsIndirectArgs", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:167][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "MotionBlur.FilterDispatchParameters", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:167][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:167][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.Reflections.CompactRayTraceDispatchIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:167][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:168][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "InstanceCulling.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:168][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:168][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FilterProbesIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:168][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.RadianceCacheHardwareRayTracingIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:168][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "ShaderDraw.IndirectBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:168][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.RadianceCache.FixupProbeBordersIndirectArgs", 65532 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:168][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Lumen.CulledObjectIndirectArguments", 65520 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:168][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "Shadow.Virtual.DrawIndirectArgsBuffer", 65536 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x4
+[2022.10.25-09.42.31:168][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.10.25-09.42.31:169][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.10.25-09.42.31:169][ 26]LogD3D12RHI: Display: D3D12 ReleaseResources: "StagedRead", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2022.10.25-09.42.31:259][ 26]LogD3D12RHI: ~FD3D12DynamicRHI
+[2022.10.25-09.42.31:259][ 26]LogExit: Exiting.
+[2022.10.25-09.42.31:266][ 26]Log file closed, 10/25/22 12:42:31
